@@ -26,17 +26,6 @@ In English, living creatures often have different names, depending upon whether 
 
 Nouns that end in **-o** are usually masculine. Nouns that end in **-a** are usually feminine. There are exceptions to these two rules as well.
 
-### definite article
-
-`el` and `la` both mean `the`. These two words (el, la) are called `“definite articles.“` .
-
-When you learn a new noun, you should also learn its definite article (el, la). There are several reasons for this:
-
-- Because you cannot predict the gender of most nouns.
-- Because not every noun that ends in -o is masculine, and not every noun that ends in -a is feminine.
-- Because many nouns end in letters other than o or a.
-- Because the definite article (el, la) is your clue as to whether a noun is masculine or feminine.
-
 **Some rules to help identify the gender of nouns**
 
 (1). Many nouns that denote **living things** have both a **masculine** and a **feminine** form.
@@ -98,6 +87,45 @@ A few nouns that end in **-ma** are **feminine**, such as `la cama` and `la plum
 - la gratitud
 - la certidumbre
 - la muchedumbre
+
+## Definite/Indefinite Articles
+
+`el` and `la` both mean `the`. These two words (el, la) are called `“definite articles.“` .
+
+When you learn a new noun, you should also learn its definite article (el, la). There are several reasons for this:
+
+- Because you cannot predict the gender of most nouns.
+- Because not every noun that ends in -o is masculine, and not every noun that ends in -a is feminine.
+- Because many nouns end in letters other than o or a.
+- Because the definite article (el, la) is your clue as to whether a noun is masculine or feminine.
+
+In Spanish, the **definite article** has 4 forms, depending on whether the noun is **masculine**, **feminine**, **singular** or **plural**.
+
+- **el** gato (the male cat)
+- **la** gata (the female cat)
+- **los** gatos (the male cats)
+- **las** gatas (the female cats)
+
+> **Note** : The masculine plural definite and indefinite articles (los, unos) are also used to indicate a group of mixed sex.
+>
+> Thus, “los gatos” could refer to a group of 10 male cats, or it could refer to a group of 9 female cats and one male cat.
+> “unos gatos” could refer to a group of 10 male cats, or it could refer to a group of 9 female cats and one male cat.
+
+In Spanish, the indefinite article has 4 forms, depending on whether the noun is **masculine**, **feminine**, **singular** or **plural**.
+
+- **un** gato (a male cat)
+- **una** gata (a female cat)
+- **unos** gatos (some male cats)
+- **unas** gatas (some female cats)
+
+The above can be summarized as follows:
+
+| Noun Type          | Definite Article | Indefinite Article |
+| ------------------ | ---------------- | ------------------ |
+| Masculine Singular | el               | un                 |
+| Feminine Singular  | la               | una                |
+| Masculine Plural   | los              | unos               |
+| Feminine Plural    | las              | unas               |
 
 ## Plural Forms of Nouns
 
