@@ -39,9 +39,9 @@ When you learn a new noun, you should also learn its definite article (el, la). 
 
 **Some rules to help identify the gender of nouns**
 
-(1) Many nouns that denote **living things** have both a **masculine** and a **feminine** form.
+(1). Many nouns that denote **living things** have both a **masculine** and a **feminine** form.
 
-(2) Most nouns that end in **-o** are **masculine**, and most nouns that end in **-a** are **feminine**.
+(2). Most nouns that end in **-o** are **masculine**, and most nouns that end in **-a** are **feminine**.
 
 Four of the **masculine** nouns that end in **-a** are simply exceptions and must be memorized.
 
@@ -55,7 +55,7 @@ Similarly, a few nouns that end in **-o** are **feminine**.
 - la mano
 - la radio
 
-(3) **Masculine** nouns that end in a consonant often have a corresponding **feminine** form that ends in **-a**.
+(3). **Masculine** nouns that end in a consonant often have a corresponding **feminine** form that ends in **-a**.
 
 | Masculine                 | Feminine                     |
 | ------------------------- | ---------------------------- |
@@ -63,7 +63,7 @@ Similarly, a few nouns that end in **-o** are **feminine**.
 | el doctor(male doctor)    | la doctora(female doctor)    |
 | el señor(Mr.)             | la señora(Mrs.)              |
 
-(4) Some nouns that refer to people use the same form for both masculine and feminine. These nouns indicate gender by the article (el or la).
+(4). Some nouns that refer to people use the same form for both masculine and feminine. These nouns indicate gender by the article (el or la).
 
 | Masculine              | Feminine               |
 | ---------------------- | ---------------------- |
@@ -71,7 +71,7 @@ Similarly, a few nouns that end in **-o** are **feminine**.
 | el pianista(pianist)   | la pianista(pianist)   |
 | el artista(artist)     | la artista(artist)     |
 
-(5) Many nouns that end in **-ma** are **masculine**.
+(5). Many nouns that end in **-ma** are **masculine**.
 
 - el telegrama
 - el programa
@@ -84,7 +84,7 @@ Similarly, a few nouns that end in **-o** are **feminine**.
 
 A few nouns that end in **-ma** are **feminine**, such as `la cama` and `la pluma`.
 
-(6) Nouns that end in `-sión`, `-ción`, `-dad`, `-tad`, `-tud`, `-umbre` are **feminine**.
+(6). Nouns that end in `-sión`, `-ción`, `-dad`, `-tad`, `-tud`, `-umbre` are **feminine**.
 
 - la televisión
 - la decisión
@@ -98,3 +98,95 @@ A few nouns that end in **-ma** are **feminine**, such as `la cama` and `la plum
 - la gratitud
 - la certidumbre
 - la muchedumbre
+
+## Plural Forms of Nouns
+
+(1). If a noun ends in a **vowel**, make it plural by adding **-s**.
+
+- libro (book) → libros (books)
+- pluma (pen) → plumas (pens)
+- chico (boy) → chicos (boys)
+- señora (lady) → señoras (ladies)
+
+(2). If a noun ends in a **consonant**, make it plural by adding **-es**.
+
+- borrador (eraser) → borradores (erasers)
+- universidad (university) → universidades (universities)
+- profesor (teacher) → profesores (teachers)
+- ciudad (city) → ciudades (cities)
+
+(3). If a noun ends in **-ión**, change the **-ón** to **-ones**.
+
+- avión (airplane) → aviones (airplanes)
+- televisión (television) → televisiones (televisions)
+- conversación (conversation) → conversaciones (conversations)
+- sección (section) → secciones (sections)
+
+(4). If a noun ends in **-z**, change the **-z** to **-ces**.
+
+- lápiz (pencil) → lápices (pencils)
+- voz (voice) → voces (voices)
+- tapiz (tapestry) → tapices (tapestries)
+- actriz (actress) → actrices (actresses)
+
+(5). A few nouns are **“compound nouns,”** that is, they are formed by combining two words into one. These compound nouns are always **masculine**, and the plural is formed by changing the **“el”** to **“los.”** .
+
+- el abrelatas (can opener) → los abrelatas (can openers)
+- el paraguas (umbrella) → los paraguas (umbrellas)
+
+> **Note** : The **definite articles** (el, la) become **los** and **las** in the plural form.
+>
+> - el libro (the book) → los libros (the books)
+> - la pluma (the pen) → las plumas (the pens)
+> - el chico (the boy) → los chicos (los chicos)
+> - la señora (the lady) → las señoras (the ladies)
+
+## Numbers
+
+### 1-10
+
+```md
+1. uno
+2. dos
+3. tres
+4. cuatro
+5. cinco
+6. seis
+7. siete
+8. ocho
+9. nueve
+10. diez
+```
+
+The number **“one”** changes from “uno” to **“un”** before a **masculine** noun, and from “uno” to **“una”** before a **feminine** noun.
+
+| Masculine      | Feminine        |
+| -------------- | --------------- |
+| un libro(book) | una pluma(pen)  |
+| un perro(dog)  | una gata(cat)   |
+| un hombre(man) | una chica(girl) |
+
+### 11-30
+
+```md
+11. once
+12. doce
+13. trece
+14. catorce
+15. quince
+16. dieciséis
+17. diecisiete
+18. dieciocho
+19. diecinueve
+20. veinte
+21. veintiuno
+22. veintidós
+23. veintitrés
+24. veinticuatro
+25. veinticinco
+26. veintiséis
+27. veintisiete
+28. veintiocho
+29. veintinueve
+30. treinta
+```
