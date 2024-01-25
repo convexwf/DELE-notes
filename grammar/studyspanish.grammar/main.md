@@ -218,3 +218,72 @@ The number **“one”** changes from “uno” to **“un”** before a **mascu
 29. veintinueve
 30. treinta
 ```
+
+### Days of the Week
+
+```md
+lunes (Monday)
+martes (Tuesday)
+miércoles (Wednesday)
+jueves (Thursday)
+viernes (Friday)
+sábado (Saturday)
+domingo (Sunday)
+```
+
+Tips
+
+1. In Spanish-speaking countries, the week begins on Monday.
+2. The days of the week are not capitalized.
+3. The days of the week are all masculine.
+
+When used with the days of the week, the definite article has the special meaning **“on”** .
+
+```markdown
+No trabajo el lunes./ I don’t work on Monday.
+No trabajo los martes./ I don’t work on Tuesdays.
+Hay una fiesta el miércoles./ There is a party on Wednesday.
+Hay muchas fiestas los viernes./ There are many parties on Fridays.
+```
+
+Days of the week ending in **-s** do not change form in the plural. Only the **article** changes (el -> los).
+
+```markdown
+el lunes (Monday) -> los lunes (Mondays)
+el martes (Tuesday) -> los martes (Tuesdays)
+el miércoles (Wednesday) -> los miércoles (Wednesdays)
+el jueves (Thursday) -> los jueves (Thursdays)
+el viernes (Friday) -> los viernes (Fridays)
+el sábado (Saturday) -> los sábados (Saturdays)
+el domingo (Sunday) -> los domingos (Sundays)
+```
+
+## Verb: Hay
+
+The verb form **“hay”** has two meanings: **“there is”** and **“there are.”**
+
+```markdown
+Hay un libro en la mesa./ There is a book on the table.
+Hay dos libros en la mesa./ There are two books on the table.
+Hay un libro y una pluma en la mesa./ There is one book and one pen on the table.
+```
+
+When used in questions, **“hay”** has two different meanings: **“is there”** and **“are there.”**
+
+```markdown
+¿Hay un hotel en el centro?/ Is there a hotel downtown?
+¿Hay algunos libros por aquí?/ Are there any books around here?
+¿Hay muchos estudiantes en la clase?/ Are there lots of students in the class?
+¿Hay cuatro sillas en el cuarto?/ Are there 4 chairs in the room?
+¿Hay una chica o dos?/ Is there one girl or two?
+```
+
+The verb form **“hay”** can also be used to answer questions.
+
+```markdown
+¿Hay un hotel en el centro?/ Is there a hotel downtown?
+Sí. Sí hay./ Yes. Yes there is.
+
+¿Hay algunos libros por aquí?/ Are there any books around here?
+No. No hay./ No. No there aren’t.
+```
