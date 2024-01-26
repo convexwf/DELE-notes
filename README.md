@@ -4,6 +4,7 @@
 
 - [最全Dele备考材料清单，建议收藏~ - 知乎](https://zhuanlan.zhihu.com/p/357901920)
 - [Learn Spanish Online at StudySpanish.com](https://studyspanish.com/)
+- [CVC. Plan Curricular del Instituto Cervantes. Índice.](https://cvc.cervantes.es/ensenanza/biblioteca_ele/plan_curricular/indice.htm)
 
 ## 语法
 
