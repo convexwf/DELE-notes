@@ -415,3 +415,72 @@ Sí. Sí hay./ Yes. Yes there is.
 ¿Hay algunos libros por aquí?/ Are there any books around here?
 No. No hay./ No. No there aren’t.
 ```
+
+## Adjectives
+
+In Spanish, adjectives that are descriptive usually **follow** the noun they describe.
+
+```markdown
+un libro interesante (an interesting book)
+la chica alta (the tall girl)
+los libros pequeños (the small books)
+```
+
+When an adjective speaks of a quality that is inherent and usually taken for granted, the adjective **precedes** the noun.
+
+```markdown
+la blanca nieve (the white snow, snow is usually white)
+los altos picos (the high peaks, peaks are usually high)
+```
+
+Adjectives of quantity almost always come **before** the noun. Such adjectives tell how much or how many.
+
+```markdown
+pocos libros (few books)
+mucha energía (much energy)
+mucho trabajo (much work)
+pocas casas (few houses)
+```
+
+**Adjective Agreement**
+
+In Spanish, most adjectives need to change form to match the noun they modify.
+
+(1) Many common adjectives end in **-o**. These adjectives have four forms.
+
+| Adjective | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural  |
+| --------- | ------------------ | ----------------- | ---------------- | ---------------- |
+| alto      | el chico alto      | la chica alta     | los chicos altos | las chicas altas |
+| rojo      | el libro rojo      | la pluma roja     | los libros rojos | las plumas rojas |
+
+(2) Adjectives that end in **-e** or a **consonant** have only two forms. They do not change form for **masculine** or **feminine**.
+
+For adjectives that end in **-e**, simply add **-s** to the singular form to form the plural.
+
+For adjectives that end in a **consonant**, add **-es** to the singular form to form the plural.
+
+| Adjective   | Masculine Singular   | Feminine Singular    | Masculine Plural        | Feminine Plural         |
+| ----------- | -------------------- | -------------------- | ----------------------- | ----------------------- |
+| inteligente | el chico inteligente | la chica inteligente | los chicos inteligentes | las chicas inteligentes |
+| popular     | el libro popular     | la pluma popular     | los libros populares    | las plumas populares    |
+
+(3) Many adjectives of **nationality** end in **-o**. These adjectives follow the same rules as other adjectives ending in -o. That is, they have four forms. Many other adjectives of nationality end in a **consonant**. These adjectives do not follow the same rules as other adjectives ending in a consonant, rather, they have a distinct feminine form ending in **-a**.
+
+| Adjective          | Masculine Singular | Feminine Singular | Masculine Plural     | Feminine Plural      |
+| ------------------ | ------------------ | ----------------- | -------------------- | -------------------- |
+| mexicano (Mexican) | el chico mexicano  | la chica mexicana | los chicos mexicanos | las chicas mexicanas |
+| español (Spanish)  | el chico español   | la chica española | los chicos españoles | las chicas españolas |
+
+(4) Adjectives that end in **-or**, **-án**, **-ón**, or **-ín** have four forms.
+
+| Adjective                | Masculine Singular   | Feminine Singular    | Masculine Plural         | Feminine Plural          |
+| ------------------------ | -------------------- | -------------------- | ------------------------ | ------------------------ |
+| hablador (talkative)     | el chico hablador    | la chica habladora   | los chicos habladores    | las chicas habladoras    |
+| trabajador (hardworking) | el hombre trabajador | la mujer trabajadora | los hombres trabajadores | las mujeres trabajadoras |
+
+However, adjectives that end in **-erior** do not change form for **masculine** or **feminine**.
+
+| Adjective           | Masculine Singular | Feminine Singular  | Masculine Plural    | Feminine Plural        |
+| ------------------- | ------------------ | ------------------ | ------------------- | ---------------------- |
+| anterior (previous) | el día anterior    | la semana anterior | los días anteriores | las semanas anteriores |
+
