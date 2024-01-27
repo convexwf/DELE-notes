@@ -285,9 +285,9 @@ domingo (Sunday)
 
 Tips
 
-1. In Spanish-speaking countries, the week begins on Monday.
+1. In Spanish-speaking countries, the week begins on **Monday**.
 2. The days of the week are not capitalized.
-3. The days of the week are all masculine.
+3. The days of the week are all **masculine**.
 
 When used with the days of the week, the definite article has the special meaning **“on”** .
 
@@ -515,3 +515,56 @@ However, the **vosotros** form is used primarily in **Spain**. Throughout **Lati
 > **ustedes** can be abbreviated as **Uds.** or **Vds.**.  
 
 (3) In many ways, Spanish is more gender-specific than English. So, Spanish has different words for **“we”** / **“they”** / **“you-all”** depending on whether the group is **masculine** or **feminine**.
+
+### Conjugation of Regular Verbs
+
+All Spanish verbs are either **“regular”** or **“irregular”** .
+
+There are three types of **regular** verbs in Spanish:
+
+- **-ar** verbs (like hablar)
+- **-er** verbs (like comer)
+- **-ir** verbs (like vivir)
+
+Infinitive verbs are verbs that are not conjugated. They are the base form of the verb, equivalent to the English **“to”** form (to speak, to eat, to live).
+
+The **conjugation** of a verb is the changing of the verb to match the subject of the sentence.
+
+| Infinitive        | yo    | tú     | él/ella/usted/Ud. | nosotros/nosotras | vosotros/vosotras | ellos/ellas/ustedes/Uds. |
+| ----------------- | ----- | ------ | ----------------- | ----------------- | ----------------- | ------------------------ |
+| hablar (to speak) | hablo | hablas | habla             | hablamos          | habláis           | hablan                   |
+| comer (to eat)    | como  | comes  | come              | comemos           | coméis            | comen                    |
+| vivir (to live)   | vivo  | vives  | vive              | vivimos           | vivís             | viven                    |
+
+(1) **-ar** verbs: To conjugate an **-ar** verb, remove the **-ar** ending and add the appropriate ending.
+
+```markdown
+yo      -ar -> -o
+tú      -ar -> -as
+él/ella/usted/Ud. -ar -> -a
+nosotros/nosotras -ar -> -amos
+vosotros/vosotras -ar -> -áis
+ellos/ellas/ustedes/Uds. -ar -> -an
+```
+
+(2) **-er** verbs: To conjugate an **-er** verb, remove the **-er** ending and add the appropriate ending.
+
+```markdown
+yo      -er -> -o
+tú      -er -> -es
+él/ella/usted/Ud. -er -> -e
+nosotros/nosotras -er -> -emos
+vosotros/vosotras -er -> -éis
+ellos/ellas/ustedes/Uds. -er -> -en
+```
+
+(3) **-ir** verbs: To conjugate an **-ir** verb, remove the **-ir** ending and add the appropriate ending.
+
+```markdown
+yo      -ir -> -o
+tú      -ir -> -es
+él/ella/usted/Ud. -ir -> -e
+nosotros/nosotras -ir -> -imos
+vosotros/vosotras -ir -> -ís
+ellos/ellas/ustedes/Uds. -ir -> -en
+```
