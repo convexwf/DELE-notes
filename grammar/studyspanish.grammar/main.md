@@ -484,3 +484,34 @@ However, adjectives that end in **-erior** do not change form for **masculine** 
 | ------------------- | ------------------ | ------------------ | ------------------- | ---------------------- |
 | anterior (previous) | el día anterior    | la semana anterior | los días anteriores | las semanas anteriores |
 
+## Verb
+
+### Subject Pronouns
+
+| Subject Pronoun | English Equivalent                            | Example            |
+| --------------- | --------------------------------------------- | ------------------ |
+| yo              | I                                             | Yo hablo.          |
+| usted           | you (formal)                                  | Usted habla.       |
+| tú              | you (informal)                                | Tú hablas.         |
+| él              | he                                            | Él habla.          |
+| ella            | she                                           | Ella habla.        |
+| nosotros        | we (masculine or mixed gender)                | Nosotros hablamos. |
+| nosotras        | we (feminine)                                 | Nosotras hablamos. |
+| ustedes         | you-all (formal)                              | Ustedes hablan.    |
+| vosotros        | you-all (informal, masculine or mixed gender) | Vosotros habláis.  |
+| vosotras        | you-all (informal, feminine)                  | Vosotras habláis.  |
+| ellos           | they (masculine or mixed gender)              | Ellos hablan.      |
+| ellas           | they (feminine)                               | Ellas hablan.      |
+
+(1) Spanish has a formal and an informal form of the word **“you”** .
+
+**“Usted”** is more formal and is generally used to express respect. **“Tú”** is more familiar and is used among friends, coworkers, relatives, or when addressing a child.
+
+(2) When referring to **“you-all”** , there are two choices in Spanish: **“ustedes”** for the formal and **“vosotros”** for the informal.
+
+However, the **vosotros** form is used primarily in **Spain**. Throughout **Latin America**, **“ustedes”** is generally used in both formal and informal situations to refer to “you-all.”
+
+> **usted** can be abbreviated as **Ud.** or **Vd.**.  
+> **ustedes** can be abbreviated as **Uds.** or **Vds.**.  
+
+(3) In many ways, Spanish is more gender-specific than English. So, Spanish has different words for **“we”** / **“they”** / **“you-all”** depending on whether the group is **masculine** or **feminine**.
