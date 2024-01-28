@@ -568,3 +568,69 @@ nosotros/nosotras -ir -> -imos
 vosotros/vosotras -ir -> -ís
 ellos/ellas/ustedes/Uds. -ir -> -en
 ```
+
+## Sentence
+
+### Negation
+
+To make a sentence negative, place the word **“no”** before the verb.
+
+```markdown
+Ella habla inglés./ She speaks English.
+Ella no habla inglés./ She doesn’t speak English.
+
+Él es profesor./ He is a teacher.
+Él no es profesor./ He is not a teacher.
+```
+
+When the answer to a question is negative, **two** negative words are required.
+
+```markdown
+¿Habla Ud. español?/ Do you speak Spanish?
+No. No hablo español./ No. I don’t speak Spanish.
+
+¿Está Gerardo en la clase?/ Is Gerardo in the class?
+No. Gerardo no está en la clase./ No. Gerardo is not in the class.
+```
+
+**A list of affirmative words and their negative counterparts**
+
+| Affirmative                            | Negative                                   |
+| -------------------------------------- | ------------------------------------------ |
+| algo (something)                       | nada (nothing)                             |
+| alguien (someone)                      | nadie (no one)                             |
+| algún, alguna, algunos, algunas (some) | ningún, ninguna, ningunos, ningunas (none) |
+| siempre (always)                       | nunca (never), jamás (never, ever)         |
+| también (also)                         | tampoco (neither, not either)              |
+| o ... o (either ... or)                | ni ... ni (neither ... nor)                |
+
+(1) The negative words can be used alone, preceding the verb.
+
+```markdown
+Nadie habla./ Nobody speaks.
+Él nunca come./ He never eats.
+Alfredo tampoco baila./ Alfredo doesn’t dance either.
+```
+
+(2) The negative words can also be used with the word **“no”** , following the verb
+
+```markdown
+No habla nadie./ Nobody speaks.
+Él no come nunca./ He never eats.
+Alfredo no baila tampoco./ Alfredo doesn’t dance either.
+```
+
+(3) Sometimes, three or even four negative words are used in the same sentence.
+
+```markdown
+No compra nada nunca./ I never buy anything.
+Él no compra nada tampoco./ He doesn’t buy anything either.
+Yo no veo nunca a nadie tampoco./ I never see anybody either.
+```
+
+
+No compro nada nunca.
+I never buy anything.
+
+Él no compra nada tampoco.
+He doesn’t buy anything either.
