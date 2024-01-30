@@ -569,6 +569,182 @@ vosotros/vosotras -ir -> -ís
 ellos/ellas/ustedes/Uds. -ir -> -en
 ```
 
+### Ser vs. Estar
+
+**Ser** and **estar** both mean **“to be”** , but they are used in different situations.
+
+In general, **ser** is used to describe **“what”** something is, while **estar** is used to describe **“how”** something is. In other words, **ser** is used to describe **“permanent”** or **“inherent”** qualities (**essential characteristics**), while **estar** is used to describe **“temporary”** or **“changeable”** conditions.
+
+```markdown
+La manzana es verde. / The apple is green. (essence)
+La manzana está verde. / The apple is green. (condition)
+```
+
+To address **condition**, use **estar**. Estar is an irregular verb, which means that it does not follow the normal rules for conjugation.
+
+To address an **essential characteristic**, use **ser**. Ser is also an irregular verb.
+
+| Infinitive | yo    | tú    | él/ella/usted/Ud. | nosotros/nosotras | vosotros/vosotras | ellos/ellas/ustedes/Uds. |
+| ---------- | ----- | ----- | ----------------- | ----------------- | ----------------- | ------------------------ |
+| estar      | estoy | estás | está              | estamos           | estáis            | están                    |
+| ser        | soy   | eres  | es                | somos             | sois              | son                      |
+
+**The cases where you would use ser:**
+
+(1) **Ser** is used to express the **hour**, **day**, and **date**.
+
+```markdown
+¿Qué hora es?/ What time is it?
+Son las dos./ It’s two o’clock.
+¿Qué día es hoy?/ What day is today?
+Hoy es lunes./ Today’s Monday.
+¿Qué fecha es hoy?/ What’s the date today?
+Es el cinco de mayo./ It’s May fifth.
+```
+
+(2) **Ser** is used to express **place of origin** .
+
+```markdown
+¿De dónde eres tú?/ Where are you from?
+Soy de Colombia./ I’m from Colombia.
+```
+
+(3) **Ser** is used to express **occupation** .
+
+```markdown
+¿Cuál es tu trabajo?/ What do you do?
+Soy carpintero./ I’m a carpenter.
+```
+
+(4) **Ser** is used to express **nationality** .
+
+```markdown
+¿Es ella puertorriqueña?/ Is she Puerto Rican?
+No, es guatemalteca./ No, she’s Guatemalan.
+```
+
+(5) **Ser** is used to express **religious** or **political affiliation** .
+
+```markdown
+¿Son los García bautistas?/ Are the Garcias Baptists?
+No, son católicos./ No, they’re Catholics.
+```
+
+(6) **Ser** is used to express the **material** something is made of.
+
+```markdown
+¿De qué material es la mesa?/ What’s the table made of?
+Es de madera./ It’s made of wood.
+```
+
+(7) **Ser** is used to express **possession** .
+
+```markdown
+¿De quién es la pluma?/ Whose pen is it?
+Es de Emilio./ It’s Emilio’s.
+```
+
+(8) **Ser** is used to express the **relationship** of one person to another.
+
+```markdown
+¿Quién es Rogelio?/ Who is Roger?
+Es el esposo de Marta./ He’s Martha’s husband.
+```
+
+(9) **Ser** is used with certain **impersonal expressions** .
+
+```markdown
+Es importante practicar cada día./ It’s important to practice every day.
+Es necesario hablar mucho./ It’s necessary to speak a lot.
+```
+
+(10) **Ser** is used to tell **where** an event is taking place.
+
+```markdown
+La película es en el cine./ The movie is at the theatre.
+La fiesta es en el club Fantástico./ The party is in the Fantastic Club.
+```
+
+(11) **Ser** is used with **adjectives** to express **inherent**, or **essential qualities** .
+
+```markdown
+Miguel es un hombre sincero./ Mike is a sincere man.
+También es guapo./ He’s also handsome.
+```
+
+**The cases where you would use estar:**
+
+(1) **Estar** is used to express **geographic or physical location** .
+
+```markdown
+¿Dónde estás?/ Where are you?
+Estoy en el laboratorio./ I’m in the laboratory.
+
+¿Dónde está Chile?/ Where’s Chile?
+Chile está en América del Sur./ Chile is in South America.
+```
+
+> **Note** : The one exception to this rule is that **ser** is used to tell where an event is taking place. (La fiesta es en mi casa.)
+
+(2) **Estar** is used with **adjectives** to express **state or condition** .
+
+```markdown
+¿Cómo está la sopa?/ How’s the soup?
+La sopa está fría./ The soup is cold.
+
+¿Cómo estás tú?/ How are you?
+Estoy muy bien, gracias./ I am very well, thanks.
+```
+
+(3) **Estar** is used with many **idiomatic expressions** . These are just a few.
+
+- estar de acuerdo / to be in agreement
+- estar de pie / to be standing
+- estar en camino / to be on the way
+- estar en las nubes / to daydream
+
+(4) **Estar** is used with the **progressive tenses** .
+
+```markdown
+¿Qué estás comiendo?/ What are you eating?
+Estoy comiendo arroz y frijoles./ I am eating rice and beans.
+```
+
+**Further distinctions between ser and estar**
+
+(1) When the verb **“to be”** is followed by a noun, the verb **ser** is always used. This type of sentence is always referring to **essential characteristics**, since the verb is **“linking”** what comes before the verb to what comes after the verb.
+
+```markdown
+Juan es médico.
+John is a doctor. => John = doctor.
+```
+
+(2) When the verb **“to be”** is followed by an adjective, the verb used depends upon the meaning. When referring to an **essential characteristic**, use **ser**. When referring to a **state or condition**, use **estar**.
+
+```markdown
+La sopa está fría. / The soup is cold.
+Los elefantes son grandes. / The elephants are big.
+```
+
+When the verb **“to be”** is followed by an adjective, the verb can actually change the meaning of the adjective.
+
+```markdown
+El profesor está aburrido. / The professor is bored.
+El profesor es aburrido. / The professor is boring.
+```
+
+(3) To describe **origin**, or **where something is from**, use **ser**.  
+
+To describe **location**, or **where something is located right now**, use **estar**.  
+
+To tell where an **event** is taking place, use **ser**.  
+
+```markdown
+Mónica es de España. / Mónica is from Spain. (origin)
+Mónica está en Venezuela. / Mónica is in Venezuela. (location)
+La fiesta es en la casa de Mónica. / The party is at Mónica’s house. (taking place)
+```
+
 ## Sentence
 
 ### Negation
