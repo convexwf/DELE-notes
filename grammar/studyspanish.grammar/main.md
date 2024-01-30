@@ -792,6 +792,36 @@ Mónica está en Venezuela. / Mónica is in Venezuela. (location)
 La fiesta es en la casa de Mónica. / The party is at Mónica’s house. (taking place)
 ```
 
+### Irregular Verbs
+
+There are many irregular verbs in Spanish. These verbs do not follow the normal rules for conjugation.
+
+| Infinitive      | yo    | tú     | él/ella/usted/Ud. | nosotros/nosotras | vosotros/vosotras | ellos/ellas/ustedes/Uds. |
+| --------------- | ----- | ------ | ----------------- | ----------------- | ----------------- | ------------------------ |
+| tener (to have) | tengo | tienes | tiene             | tenemos           | tenéis            | tienen                   |
+| venir (to come) | vengo | vienes | viene             | venimos           | venís             | vienen                   |
+
+## Expressions
+
+### Tener que
+
+**Tener que + infinitive** is one way to express **obligation** or **necessity**. This expression can be translated as **“someone has to do something.”** **Tener** needs to be conjugated according to the subject of the sentence.
+
+```markdown
+Tengo que comer las verduras./ I have to eat the vegetables.
+Ángel tiene que leer el periódico./ Ángel has to read the newspaper.
+Ellos tienen que comprar una revista./ They have to buy a magazine.
+```
+
+### Hay que
+
+**Hay que + infinitive** is used to express the idea of **“one must do something”** or **“it is necessary to do something.”** It is a more general expression and since there is no subject, the verb form **hay** is always used.
+
+```markdown
+Hay que estudiar mucho./ One must study a lot.
+Hay que tomar un taxi./ It is necessary to take a taxi.
+```
+
 ## Sentence
 
 ### Negation
