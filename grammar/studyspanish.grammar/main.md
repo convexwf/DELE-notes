@@ -803,6 +803,43 @@ There are many irregular verbs in Spanish. These verbs do not follow the normal 
 
 ## Expressions
 
+### The personal `a`
+
+The **direct object** of a verb is the person or thing that is directly affected by the action of the verb. In Spanish, when the direct object of a verb is a **specific person** or **persons**, the word **“a”** is placed before the direct object.
+
+```markdown
+Veo a Juan./ I see John.
+Jorge llama a María./ George calls Mary.
+```
+
+The **"a"** may also be used before a **specific pet** or **domesticated animal**.
+
+```markdown
+La mujer acaricia a su perro./ The woman pets her dog.
+El perro persigue a la gata./ The dog chases the cat.
+```
+
+The personal **“a”** is not used when the direct object is not a person or is an animal for which no personal feelings are felt.
+
+```markdown
+Bebo la leche./ I drink the milk. (milk is neither a person nor an animal)
+Miro la jirafa./ I look at the giraffe. (no personal feelings are felt towards the giraffe)
+```
+
+Besides, the personal **“a”** is not used after the verb **tener**, or the verb form **hay**. This is true even if the direct object is a person.
+
+```markdown
+Tengo dos hermanos./ I have two brothers.
+Hay cinco chicas./ There are five girls.
+```
+
+If the direct object is an **indefinite person**, the personal **“a”** is not used. The result is that the person becomes **“depersonalized”**.
+
+```markdown
+Necesito médico./ I need (any) doctor. (or) I need medical assistance.
+Necesito jardinero./ I need (any) gardener. (or) I need someone to tend my garden.
+```
+
 ### Tener que
 
 **Tener que + infinitive** is one way to express **obligation** or **necessity**. This expression can be translated as **“someone has to do something.”** **Tener** needs to be conjugated according to the subject of the sentence.
