@@ -484,24 +484,71 @@ However, adjectives that end in **-erior** do not change form for **masculine** 
 | ------------------- | ------------------ | ------------------ | ------------------- | ---------------------- |
 | anterior (previous) | el día anterior    | la semana anterior | los días anteriores | las semanas anteriores |
 
+### Possessive adjectives
+
+Possessive adjectives are used to show ownership.
+
+| Subject Pronoun | Possessive Adjective | English Equivalent      |
+| --------------- | -------------------- | ----------------------- |
+| yo              | mi                   | my                      |
+| Ud.             | su                   | your (formal)           |
+| tú              | tu                   | your (informal)         |
+| él / ella       | su                   | his, her, its           |
+| nosotros        | nuestro              | our                     |
+| Uds.            | su                   | your (plural, formal)   |
+| vosotros        | vuestro              | your (plural, informal) |
+| ellos / ellas   | su                   | their                   |
+
+1. **tu** and **su** both mean **“your”** .
+   - **Tu** is used to show **familiarity** or **intimacy**. **Su** is used to show **respect** or **formality**.
+   - The two words **tu** and **tú** are pronounced the same, but they have different meanings. **Tu** is a possessive adjective, while **tú** is a subject pronoun.
+2. **su** has four meanings: **his**, **her**, **their**, and **your (formal)** .
+
+If the meaning of su is not clear from the context of the sentence, a prepositional phrase is used in place of **su**.
+
+```markdown
+María busca a la hermana de él./ María looks for his sister.
+El hombre busca las llaves de ella./ The man looks for her keys.
+María busca el cuaderno de Juan./ María looks for Juan’s notebook.
+El hombre busca las llaves de Samanta./ The man looks for Samanta’s keys.
+```
+
+**The Agreement of Possessive Adjectives**: Possessive adjectives agree with the nouns they modify. That is, they agree with the thing **possessed**, not the possessor.
+
+| Possessive Adjective | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural |
+| -------------------- | ------------------ | ----------------- | ---------------- | --------------- |
+| mi                   | mi libro           | mi pluma          | mis libros       | mis plumas      |
+| tu                   | tu libro           | tu pluma          | tus libros       | tus plumas      |
+| su                   | su libro           | su pluma          | sus libros       | sus plumas      |
+| nuestro              | nuestro libro      | nuestra pluma     | nuestros libros  | nuestras plumas |
+| vuestro              | vuestro libro      | vuestra pluma     | vuestros libros  | vuestras plumas |
+
+- Three possessive adjectives (**mi**, **tu**, **su**) have only **two** forms, singular and plural. That is, they do not have masculine and feminine forms.
+- Two possessive adjectives (**nuestro** and **vuestro**) have four forms.
+
+> **Note**: Possessive adjectives are not used with articles of **clothing** or **body parts**. Rather, the definite article is used.
+>
+> Me gusta el vestido nuevo. (I like my new dress)
+> Me duele el brazo. (My arm hurts)
+
 ## Verb
 
 ### Subject Pronouns
 
-| Subject Pronoun | English Equivalent                            | Example            |
-| --------------- | --------------------------------------------- | ------------------ |
-| yo              | I                                             | Yo hablo.          |
-| usted           | you (formal)                                  | Usted habla.       |
-| tú              | you (informal)                                | Tú hablas.         |
-| él              | he                                            | Él habla.          |
-| ella            | she                                           | Ella habla.        |
-| nosotros        | we (masculine or mixed gender)                | Nosotros hablamos. |
-| nosotras        | we (feminine)                                 | Nosotras hablamos. |
-| ustedes         | you-all (formal)                              | Ustedes hablan.    |
-| vosotros        | you-all (informal, masculine or mixed gender) | Vosotros habláis.  |
-| vosotras        | you-all (informal, feminine)                  | Vosotras habláis.  |
-| ellos           | they (masculine or mixed gender)              | Ellos hablan.      |
-| ellas           | they (feminine)                               | Ellas hablan.      |
+| Subject Pronoun       | English Equivalent                            | Example            |
+| --------------------- | --------------------------------------------- | ------------------ |
+| yo                    | I                                             | Yo hablo.          |
+| usted (Ud. / Vd.)     | you (formal)                                  | Usted habla.       |
+| tú                    | you (informal)                                | Tú hablas.         |
+| él                    | he                                            | Él habla.          |
+| ella                  | she                                           | Ella habla.        |
+| nosotros              | we (masculine or mixed gender)                | Nosotros hablamos. |
+| nosotras              | we (feminine)                                 | Nosotras hablamos. |
+| ustedes (Uds. / Vds.) | you-all (formal)                              | Ustedes hablan.    |
+| vosotros              | you-all (informal, masculine or mixed gender) | Vosotros habláis.  |
+| vosotras              | you-all (informal, feminine)                  | Vosotras habláis.  |
+| ellos                 | they (masculine or mixed gender)              | Ellos hablan.      |
+| ellas                 | they (feminine)                               | Ellas hablan.      |
 
 (1) Spanish has a formal and an informal form of the word **“you”** .
 
