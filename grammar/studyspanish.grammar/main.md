@@ -90,7 +90,7 @@ A few nouns that end in **-ma** are **feminine**, such as `la cama` and `la plum
 
 ## Definite/Indefinite Articles
 
-`el` and `la` both mean `the`. These two words (el, la) are called `“definite articles.“` .
+`el` and `la` both mean `the`. These two words (el, la) are called **“definite articles.“** .
 
 When you learn a new noun, you should also learn its definite article (el, la). There are several reasons for this:
 
@@ -562,6 +562,174 @@ However, the **vosotros** form is used primarily in **Spain**. Throughout **Lati
 > **ustedes** can be abbreviated as **Uds.** or **Vds.**.  
 
 (3) In many ways, Spanish is more gender-specific than English. So, Spanish has different words for **“we”** / **“they”** / **“you-all”** depending on whether the group is **masculine** or **feminine**.
+
+### Pronouns as Objects of Prepositions
+
+When a pronoun acts as the object of a preposition, the following forms are used:
+
+| Subject Pronoun       | Object Pronoun | English Equivalent |
+| --------------------- | -------------- | ------------------ |
+| yo                    | mí             | me                 |
+| usted (Ud. / Vd.)     | usted          | you (formal)       |
+| tú                    | ti             | you (informal)     |
+| él                    | él             | him                |
+| ella                  | ella           | her                |
+| nosotros              | nosotros       | us                 |
+| ustedes (Uds. / Vds.) | ustedes        | you-all (formal)   |
+| vosotros              | vosotros       | you-all (informal) |
+| ellos                 | ellos          | them               |
+| ellas                 | ellas          | them               |
+
+- Only **“yo” -> "mí"** and **“tú” -> "ti"** have different forms when used as objects of prepositions.
+
+```markdown
+Juan habla de mí./ Juan speaks of me.
+Hablo con ellos./ I speak with them.
+Pablo compró un anillo para ella./ Pablo bought a ring for her.
+```
+
+(1) Whenever **mí** follows the preposition **con**, the two words combine to form **conmigo**.
+
+```markdown
+¿Por qué no vienes conmigo?/ Why don’t you come with me?
+```
+
+(2) Whenever **ti** follows the preposition **con**, the two words combine to form **contigo**.
+
+```markdown
+No voy contigo, voy con ellos./ I’m not going with you, I’m going with them.
+```
+
+(3) Whenever you want to say **“with him, with her, with you (formal), with them, with you-all (formal)”** there are two possibilities.  
+
+- If the pronoun is referring to the subject of the sentence, use **consigo**.
+
+```markdown
+Él llevó las plumas consigo./ He took the pens with him(self).
+¿Por qué no lleva un libro consigo?/ Why don’t you take a book with you(rself)?
+```
+
+- If the pronoun does not refer to the subject of the sentence, use **con + the appropriate pronoun**.
+
+```markdown
+Ellos viven con él./ They live with him.
+No quiero hablar con usted./ I don’t want to talk to you.
+```
+
+(4) There are six special prepositions that are followed by **subject pronouns** rather than object pronouns.
+
+- entre (between)
+- excepto (except)
+- incluso (including)
+- menos (except)
+- según (according to)
+- salvo (except)
+
+```markdown
+Entre tú y yo, esta comida es horrible./ Between you and me, this food is horrible.
+Todos beben agua, incluso yo./ Everyone drinks water, including me.
+Según tú, la chica es bonita./ According to you, the girl is pretty.
+
+### Direct Object Pronouns
+
+A **direct object** is the person or thing that directly receives the action of the verb. The direct object answers the question **“what?”** or **“whom?”** with regard to what the subject of the sentence is doing.
+
+When the direct object is a **pronoun**, use the following pronouns:
+
+| Subject Pronoun       | Direct Object Pronoun | English Equivalent |
+| --------------------- | --------------------- | ------------------ |
+| yo                    | me                    | me                 |
+| usted (Ud. / Vd.)     | lo, la                | you (formal)       |
+| tú                    | te                    | you (informal)     |
+| él                    | lo                    | him                |
+| ella                  | la                    | her                |
+| nosotros / nosotras   | nos                   | us                 |
+| ustedes (Uds. / Vds.) | los, las              | you-all (formal)   |
+| vosotros / vosotras   | os                    | you-all (informal) |
+| ellos / ellas         | los, las              | them               |
+
+- **it** has two forms: **lo** for **masculine** nouns and **la** for **feminine** nouns.
+
+(1) In an **affirmative statement** with **one verb**, the direct object pronoun comes immediately **before** the conjugated verb.
+
+```markdown
+Tengo = I have
+Tengo la pluma. = I have the pen.
+La tengo. = I have it.
+```
+
+If the subject of the sentence changes, this does not affect the direct object pronoun. However, if the direct object of the sentence changes to a noun of the opposite gender, the direct object pronoun must change to match the noun.
+
+```markdown
+Juan tiene = John has
+Juan tiene la pluma. = John has the pen.
+Juan la tiene. = John has it.
+
+María tiene = Mary has
+María tiene la pluma. = Mary has the pen.
+María la tiene. = Mary has it.
+
+Juan tiene = John has
+Juan tiene el libro. = John has the book.
+Juan lo tiene. = John has it.
+
+María tiene = Mary has
+María tiene los libros. = Mary has the books.
+María los tiene. = Mary has them.
+```
+
+(2) In a **negative statement** with **one verb**, the direct object pronoun is placed **between** the negative word and the conjugated verb.
+
+```markdown
+Compro = I buy
+Compro los libros. = I buy the books.
+Los compro. = I buy them.
+No compro los libros. = I don’t buy the books.
+No los compro. = I don’t buy them.
+```
+
+(3) When a sentence has **two verbs**, the first verb is conjugated and the second verb remains in the infinitive form. The direct object pronoun can be placed **before** the conjugated verb or **attached** to the infinitive.
+
+```markdown
+
+
+When a sentence has two verbs, the first verb is conjugated and the second verb remains in the infinitive form.
+
+poder
+to be able
+
+pagar
+to pay
+
+Puedo pagar diez pesos.
+I am able to pay 10 pesos.
+
+preferir
+to prefer
+
+hablar
+to speak
+
+Elena prefiere hablar español.
+Elena prefers to speak Spanish.
+
+In sentences with two verbs, there are two options regarding the placement of the direct object pronoun.
+
+Place it immediately before the conjugated verb.
+Attach it directly to the infinitive.
+Here are examples of the direct object pronoun placed before the conjugated verb:
+
+Lo quiero ver.
+I want to see it.
+
+Lo debemos comprar.
+We should buy it.
+
+María nos debe visitar.
+Mary should visit us.
+
+Juan lo necesita lavar.
+John needs to wash it.
 
 ### Conjugation of Regular Verbs
 
