@@ -691,45 +691,19 @@ No los compro. = I don’t buy them.
 (3) When a sentence has **two verbs**, the first verb is conjugated and the second verb remains in the infinitive form. The direct object pronoun can be placed **before** the conjugated verb or **attached** to the infinitive.
 
 ```markdown
+Lo quiero ver. = Quiero verlo. = I want to see it.
+Lo debemos comprar. = Debemos comprarlo. = We should buy it.
+María nos debe visitar. = María debe visitarnos. = Mary should visit us.
+Juan lo necesita lavar. = Juan necesita lavarlo. = John needs to wash it.
+```
 
+These same rules apply for questions and negative statements.
 
-When a sentence has two verbs, the first verb is conjugated and the second verb remains in the infinitive form.
-
-poder
-to be able
-
-pagar
-to pay
-
-Puedo pagar diez pesos.
-I am able to pay 10 pesos.
-
-preferir
-to prefer
-
-hablar
-to speak
-
-Elena prefiere hablar español.
-Elena prefers to speak Spanish.
-
-In sentences with two verbs, there are two options regarding the placement of the direct object pronoun.
-
-Place it immediately before the conjugated verb.
-Attach it directly to the infinitive.
-Here are examples of the direct object pronoun placed before the conjugated verb:
-
-Lo quiero ver.
-I want to see it.
-
-Lo debemos comprar.
-We should buy it.
-
-María nos debe visitar.
-Mary should visit us.
-
-Juan lo necesita lavar.
-John needs to wash it.
+```markdown
+¿Lo quieres ver? = ¿Quieres verlo? = Do you want to see it?
+¿Lo debemos comprar? = ¿Debemos comprarlo? = Should we buy it?
+Juan no lo necesita lavar. = Juan no necesita lavarlo. = John doesn’t need to wash it.
+```
 
 ### Conjugation of Regular Verbs
 
