@@ -629,6 +629,7 @@ No quiero hablar con usted./ I don’t want to talk to you.
 Entre tú y yo, esta comida es horrible./ Between you and me, this food is horrible.
 Todos beben agua, incluso yo./ Everyone drinks water, including me.
 Según tú, la chica es bonita./ According to you, the girl is pretty.
+```
 
 ### Direct Object Pronouns
 
@@ -703,6 +704,80 @@ These same rules apply for questions and negative statements.
 ¿Lo quieres ver? = ¿Quieres verlo? = Do you want to see it?
 ¿Lo debemos comprar? = ¿Debemos comprarlo? = Should we buy it?
 Juan no lo necesita lavar. = Juan no necesita lavarlo. = John doesn’t need to wash it.
+```
+
+### Indirect Object Pronouns
+
+An **indirect object** is the person or thing that receives the direct object. The indirect object answers the question **“to whom?”** or **“for whom?”** with regard to what the subject of the sentence is doing.
+
+When the indirect object is a **pronoun**, use the following pronouns:
+
+| Subject Pronoun       | Indirect Object Pronoun | English Equivalent |
+| --------------------- | ----------------------- | ------------------ |
+| yo                    | me                      | me                 |
+| usted (Ud. / Vd.)     | le                      | you (formal)       |
+| tú                    | te                      | you (informal)     |
+| él                    | le                      | him                |
+| ella                  | le                      | her                |
+| nosotros / nosotras   | nos                     | us                 |
+| ustedes (Uds. / Vds.) | les                     | you-all (formal)   |
+| vosotros / vosotras   | os                      | you-all (informal) |
+| ellos / ellas         | les                     | them               |
+
+(1) In an **affirmative statement** with **one verb**, the indirect object pronoun comes immediately **before** the conjugated verb.
+
+```markdown
+Juan me compra un regalo. = John buys me a gift. = John buys a gift for me.
+Juan te compra un regalo. = John buys you a gift. = John buys a gift for you.
+Juan le compra un regalo. = John buys her a gift. = John buys a gift for her.
+Juan nos compra un regalo. = John buys us a gift. = John buys a gift for us.
+Juan os compra un regalo. = John buys you-all (familiar) a gift. = John buys a gift for you-all.
+Juan les compra un regalo. = John buys them a gift. = John buys a gift for them.
+```
+
+(2) Since **le** and **les** can mean more than one thing, a **prepositional phrase** is often added to remove the ambiguity.
+
+```markdown
+Ella le escribe una carta.
+= She writes him a letter.
+= She writes her a letter.
+= She writes you (formal) a letter.
+
+Ella le escribe a Juan una carta./ She writes John a letter.
+Ella le escribe a su hermana una carta./ She writes her sister a letter.
+Ella le escribe a usted una carta./ She writes you (formal) a letter.
+
+Ella les escribe una carta.
+= She writes them a letter.
+= She writes you-all (formal) a letter.
+
+Ella les escribe a sus padres una carta./ She writes her parents a letter.
+Ella les escribe a ustedes una carta./ She writes you-all (formal) a letter.
+```
+
+(3) In a **negative statement** with **one verb**, the indirect object pronoun is placed **between** the negative word and the conjugated verb.
+
+```markdown
+Él me compra algo. = He buys me something. / He buys something for me.
+Él no me compra nada. = He doesn’t buy me anything. / He doesn’t buy anything for me.
+
+Ella te trae el desayuno. = She brings you breakfast. / She brings breakfast for you.
+Ella no te trae el desayuno. = She doesn’t bring you breakfast. / She doesn’t bring breakfast for you.
+
+Le mando a él la cuenta. = I send him the bill. / I send the bill to him.
+No le mando a él la cuenta. = I don’t send him the bill. / I don’t send the bill to him.
+
+Ellos nos compran regalos. = They buy us gifts. / They buy gifts for us.
+Ellos no nos compran ningún regalo. = They don’t buy us any gifts. / They don’t buy any gifts for us.
+```
+
+(4) In sentences with **two verbs**, the indirect object pronoun can be placed **before** the conjugated verb or **attached** to the infinitive.
+
+```markdown
+Me necesitas dar un regalo. = Necesitas darme un regalo. = You need to give me a gift.
+Te necesito comprar un sombrero. = Necesito comprarte un sombrero. = I need to buy you a hat.
+Juan nos debe prestar el dinero. = Juan debe prestarnos el dinero. = John must lend us the money.
+María le quiere alquilar a Juan el apartamento. = María quiere alquilarle a Juan el apartamento. = María wants to rent the apartment to John.
 ```
 
 ### Conjugation of Regular Verbs
