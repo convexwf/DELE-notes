@@ -1108,6 +1108,14 @@ There are many irregular verbs in Spanish. These verbs do not follow the normal 
 | --------------- | ----- | ------ | ----------------- | ----------------- | ----------------- | ------------------------ |
 | tener (to have) | tengo | tienes | tiene             | tenemos           | tenéis            | tienen                   |
 | venir (to come) | vengo | vienes | viene             | venimos           | venís             | vienen                   |
+| estar (to be)   | estoy | estás  | está              | estamos           | estáis            | están                    |
+| ser             | soy   | eres   | es                | somos             | sois              | son                      |
+| ir (to go)      | voy   | vas    | va                | vamos             | vais              | van                      |
+| dar (to give)   | doy   | das    | da                | damos             | dais              | dan                      |
+
+- **estar**, **ir**, and **dar** are irregular in the first person singular (**yo**).
+
+ir and dar follow the same pattern as estar; they are irregular in the first person singular (yo).
 
 ## Expressions
 
