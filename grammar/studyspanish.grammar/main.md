@@ -833,6 +833,97 @@ vosotros/vosotras -ir -> -ís
 ellos/ellas/ustedes/Uds. -ir -> -en
 ```
 
+### Stem-Changing Verbs
+
+Infinitives are divided into two parts: the **stem** and the **ending** . With *regular* verbs, the stem does not change while the ending does as the verb is conjugated.
+
+- hablar (to speak) -> habl- (stem) + -ar (ending)
+- comer (to eat) -> com- (stem) + -er (ending)
+- vivir (to live) -> viv- (stem) + -ir (ending)
+
+**Stem-changing verbs** are verbs that have a change in the stem of the verb when conjugated. The stem change occurs in all forms except the **nosotros/vosotros** forms.
+
+There are three types of stem-changing verbs:
+
+- **o -> ue** (dormir, poder, volver)
+- **e -> ie** (cerrar, empezar, pensar)
+- **e -> i** (pedir, repetir, seguir)
+
+(1) **o -> ue** stem-changing verbs: In the present tense, the **o** in the stem changes to **ue** in all forms except the **nosotros** and **vosotros** forms.
+
+| Infinitive                             | yo        | tú         | él/ella/usted/Ud. | nosotros/nosotras | vosotros/vosotras | ellos/ellas/ustedes/Uds. |
+| -------------------------------------- | --------- | ---------- | ----------------- | ----------------- | ----------------- | ------------------------ |
+| almorzar (to eat lunch)                | almuerzo  | almuerzas  | almuerza          | almorzamos        | almorzáis         | almuerzan                |
+| morir (to die)                         | muero     | mueres     | muere             | morimos           | morís             | mueren                   |
+| aprobar (to approve)                   | apruebo   | apruebas   | aprueba           | aprobamos         | aprobáis          | aprueban                 |
+| mostrar (to show)                      | muestro   | muestras   | muestra           | mostramos         | mostráis          | muestran                 |
+| colgar (to hang)                       | cuelgo    | cuelgas    | cuelga            | colgamos          | colgáis           | cuelgan                  |
+| mover (to move an object)              | muevo     | mueves     | mueve             | movemos           | movéis            | mueven                   |
+| contar (to count, to tell)             | cuento    | cuentas    | cuenta            | contamos          | contáis           | cuentan                  |
+| probar (to prove, test, sample, taste) | pruebo    | pruebas    | prueba            | probamos          | probáis           | prueban                  |
+| costar (to cost)                       | cuesto    | cuestas    | cuesta            | costamos          | costáis           | cuestan                  |
+| recordar (to remember)                 | recuerdo  | recuerdas  | recuerda          | recordamos        | recordáis         | recuerdan                |
+| devolver (to return an object)         | devuelvo  | devuelves  | devuelve          | devolvemos        | devolvéis         | devuelven                |
+| resolver (to solve)                    | resuelvo  | resuelves  | resuelve          | resolvemos        | resolvéis         | resuelven                |
+| volver (to return from someplace)      | vuelvo    | vuelves    | vuelve            | volvemos          | volvéis           | vuelven                  |
+| rogar (to beg, pray)                   | ruego     | ruegas     | ruega             | rogamos           | rogáis            | ruegan                   |
+| dormir (to sleep)                      | duermo    | duermes    | duerme            | dormimos          | dormís            | duermen                  |
+| sonar (to sound, ring)                 | sueno     | suenas     | suena             | sonamos           | sonáis            | suenan                   |
+| encontrar (to find)                    | encuentro | encuentras | encuentra         | encontramos       | encontráis        | encuentran               |
+| soñar (con) (to dream about)           | sueño     | sueñas     | sueña             | soñamos           | soñáis            | sueñan                   |
+| envolver (to wrap)                     | envuelvo  | envuelves  | envuelve          | envolvemos        | envolvéis         | envuelven                |
+| tostar (to toast)                      | tuesto    | tuestas    | tuesta            | tostamos          | tostáis           | tuestan                  |
+| morder (to bite)                       | muerdo    | muerdes    | muerde            | mordemos          | mordéis           | muerden                  |
+| volar (to fly)                         | vuelo     | vuelas     | vuela             | volamos           | voláis            | vuelan                   |
+
+(2) **e -> ie** stem-changing verbs: In the present tense, the **e** in the stem changes to **ie** in all forms except the **nosotros/vosotros** forms.
+
+| Infinitive                     | yo        | tú         | él/ella/usted/Ud. | nosotros/nosotras | vosotros/vosotras | ellos/ellas/ustedes/Uds. |
+| ------------------------------ | --------- | ---------- | ----------------- | ----------------- | ----------------- | ------------------------ |
+| acertar (to guess, get right)  | acierto   | aciertas   | acierta           | acertamos         | acertáis          | aciertan                 |
+| encender (to light, kindle)    | enciendo  | enciendes  | enciende          | encendemos        | encendéis         | encienden                |
+| advertir (to advise, warn)     | advierto  | adviertes  | advierte          | advertimos        | advertís          | advierten                |
+| entender (to understand)       | entiendo  | entiendes  | entiende          | entendemos        | entendéis         | entienden                |
+| cerrar (to close, shut)        | cierro    | cierras    | cierra            | cerramos          | cerráis           | cierran                  |
+| fregar (to scrub, wash dishes) | friego    | friegas    | friega            | fregamos          | fregáis           | friegan                  |
+| comenzar (to begin)            | comienzo  | comienzas  | comienza          | comenzamos        | comenzáis         | comienzan                |
+| hervir (to boil)               | hiervo    | hierves    | hierve            | hervimos          | hervís            | hierven                  |
+| confesar (to confess)          | confieso  | confiesas  | confiesa          | confesamos        | confesáis         | confiesan                |
+| mentir (to lie)                | miento    | mientes    | miente            | mentimos          | mentís            | mienten                  |
+| consentir (to consent)         | consiento | consientes | consiente         | consentimos       | consentís         | consienten               |
+| negar (to deny)                | niego     | niegas     | niega             | negamos           | negáis            | niegan                   |
+| convertir (to convert)         | convierto | conviertes | convierte         | convertimos       | convertís         | convierten               |
+| pensar (en) (to think about)   | pienso    | piensas    | piensa            | pensamos          | pensáis           | piensan                  |
+| defender (to defend)           | defiendo  | defiendes  | defiende          | defendemos        | defendéis         | defienden                |
+| perder (to lose)               | pierdo    | pierdes    | pierde            | perdemos          | perdéis           | pierden                  |
+| empezar (to begin)             | empiezo   | empiezas   | empieza           | empezamos         | empezáis          | empiezan                 |
+| preferir (to prefer)           | prefiero  | prefieres  | prefiere          | preferimos        | preferís          | prefieren                |
+
+(3) **e -> i** stem-changing verbs: In the present tense, the **e** in the stem changes to **i** in all forms except the **nosotros/vosotros** forms.
+
+| Infinitive                 | yo       | tú        | él/ella/usted/Ud. | nosotros/nosotras | vosotros/vosotras | ellos/ellas/ustedes/Uds. |
+| -------------------------- | -------- | --------- | ----------------- | ----------------- | ----------------- | ------------------------ |
+| bendecir (to bless)        | bendigo  | bendices  | bendice           | bendecimos        | bendecís          | bendicen                 |
+| impedir (to impede)        | impido   | impides   | impide            | impedimos         | impedís           | impiden                  |
+| colegir (to deduce)        | colijo   | coliges   | colige            | colegimos         | colegís           | coligen                  |
+| maldecir (to curse)        | maldigo  | maldices  | maldice           | maldecimos        | maldecís          | maldicen                 |
+| competir (to compete)      | compito  | compites  | compite           | competimos        | competís          | compiten                 |
+| medir (to measure)         | mido     | mides     | mide              | medimos           | medís             | miden                    |
+| conseguir (to get, obtain) | consigo  | consigues | consigue          | conseguimos       | conseguís         | consiguen                |
+| pedir (to ask for, order)  | pido     | pides     | pide              | pedimos           | pedís             | piden                    |
+| corregir (to correct)      | corrijo  | corriges  | corrige           | corregimos        | corregís          | corrigen                 |
+| perseguir (to pursue)      | persigo  | persigues | persigue          | perseguimos       | perseguís         | persiguen                |
+| decir (to say, tell)       | **digo** | dices     | dice              | decimos           | decís             | dicen                    |
+| reír (to laugh)            | río      | ríes      | ríe               | reímos            | reís              | ríen                     |
+| despedir (to dismiss)      | despido  | despides  | despide           | despedimos        | despedís          | despiden                 |
+| repetir (to repeat)        | repito   | repites   | repite            | repetimos         | repetís           | repiten                  |
+| elegir (to elect)          | elijo    | eliges    | elige             | elegimos          | elegís            | eligen                   |
+| seguir (to follow)         | sigo     | sigues    | sigue             | seguimos          | seguís            | siguen                   |
+| freír (to fry)             | frío     | fríes     | fríe              | freímos           | freís             | fríen                    |
+| servir (to serve)          | sirvo    | sirves    | sirve             | servimos          | servís            | sirven                   |
+| gemir (to groan, moan)     | gimo     | gimes     | gime              | gemimos           | gemís             | gimen                    |
+| sonreír (to smile)         | sonrío   | sonríes   | sonríe            | sonreímos         | sonreís           | sonríen                  |
+
 ### Ser vs. Estar
 
 **Ser** and **estar** both mean **“to be”** , but they are used in different situations.
