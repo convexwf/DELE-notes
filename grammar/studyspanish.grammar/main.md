@@ -617,6 +617,41 @@ El niño juega tan poco como la niña
 Ellos duermen tan poco como ella.
 ```
 
+### Superlatives
+
+There are two types of superlative: relative and absolute.
+
+- **Relative superlatives** describes a noun within the context of some larger group.
+- **Absolute superlatives** describe a noun without reference to any larger group.
+
+In Spanish, the **relative superlative** is formed by using the following formula:
+
+- **definite article(“el”, “la”, “los”, “las”) + (noun) + más/menos + adjective + de**
+
+Just like in English, the noun can be omitted.
+
+```markdown
+Juan es el chico más inteligente de la clase./ John is the smartest boy in the class.
+Bill Gates es el hombre más rico de los EEUU./ Bill Gates is the richest man in the U.S.
+
+María es la chica más delgada de la clase./ Mary is the thinnest girl in the class.
+= María es la más delgada de la clase./ Mary is the thinnest in the class.
+```
+
+The **absolute superlative** for adjectives has three forms.
+
+- **muy + adjective**
+- **sumamente + adjective**
+- **adjective + ísimo(-a,-os,-as)**
+
+```markdown
+Juan es muy guapo./ John is very handsome.
+Juan es sumamente guapo./ John is extremely handsome.
+Juan es guapísimo./ John is indescribably handsome.
+```
+
+Each of the three forms of the absolute superlative has a different degree of intensity.
+
 ## Verb
 
 ### Subject Pronouns
