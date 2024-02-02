@@ -562,6 +562,61 @@ Hay más de veinte estudiantes en la clase./ There are more than twenty students
 => No hay más que veinte estudiantes en la clase./ There are only twenty students in the class.
 ```
 
+### Comparisons of Equality
+
+When things being compared have equal characteristics, the comparison of equality is used, like this:
+
+```markdown
+The book is as interesting as the magazine.
+The boy is as tall as the girl
+```
+
+(1) To form the comparisons of equality using **adjectives** or **adverbs**, use the following formula:
+
+- **tan + adjective (adverb) + como**
+
+```markdown
+El libro es tan bueno como la película./ The book is as good as the movie.
+El chico es tan alto como la chica./ The boy is as tall as the girl.
+```
+
+(2) To form comparisons of equality with **nouns**, use the following formula:
+
+- **tanto(-a,-os,-as) + noun + como**
+
+```markdown
+Juan tiene tanto dinero como María./ Juan has as much money as Maria.
+Él tiene tanta paciencia como ella./ He has as much patience as she.
+Tiene tantos libros como ella./ He has as many books as she.
+Tiene tantas plumas como ella./ He has as many pens as she.
+```
+
+Note that the form of **tanto** must agree with the noun it modifies. (The rules for agreement of adjectives apply here.)
+
+| Adjective | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural |
+| --------- | ------------------ | ----------------- | ---------------- | --------------- |
+| tanto     | tanto dinero       | tanta paciencia   | tantos libros    | tantas plumas   |
+
+(3) When **actions** (not things) are being compared, and there is **no adjective**, use the following formula:
+
+- **verb + tanto + como**
+
+```markdown
+Sus estudiantes aprenden tanto como mis estudiantes./ Her students learn as much as my students.
+Rosario cocina tanto como Josefina./ Rosario cooks as much as Josefina.
+Las naranjas cuestan tanto como las manzanas./ Oranges cost as much as apples.
+```
+
+(4) When **actions** (not things) are being compared, and there is an **adjective**, use the following formula:
+
+- **verb + tan + adjective (masculine form) + como**
+
+```markdown
+Aquí se trabaja tan duro como ahí./ Here they work as hard as there.
+El niño juega tan poco como la niña
+Ellos duermen tan poco como ella.
+```
+
 ## Verb
 
 ### Subject Pronouns
