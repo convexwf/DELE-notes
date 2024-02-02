@@ -531,6 +531,37 @@ El hombre busca las llaves de Samanta./ The man looks for Samanta’s keys.
 > Me gusta el vestido nuevo. (I like my new dress)
 > Me duele el brazo. (My arm hurts)
 
+### Comparisons of Inequality
+
+In Spanish, inequality is expressed by using the following formula:
+
+- **más (menos) + adjective + que**
+- **más (menos) + adverb + que**
+- **más (menos) + noun + que**
+
+```markdown
+Tú eres más alto que yo./ You are taller than I.
+Mónica habla más lentamente que Carmen./ Monica speaks more slowly than Carmen.
+Tengo menos libros que Arsenio./ I have fewer books than Arsenio.
+```
+
+(1) If the comparative is followed by a **number**, use **“de”** instead of **“que”** .
+
+```markdown
+Hay más de veinte estudiantes en la clase./ There are more than twenty students in the class.
+Él tiene menos de noventa años./ He is less than ninety years old.
+```
+
+(2) When the sentence is **negative**, **que** is used even with numbers, to convey the meaning "only."
+
+```markdown
+Tengo más de cinco dólares./ I have more than five dollars.
+=> No tengo más que cinco dólares./ I only have five dollars.
+
+Hay más de veinte estudiantes en la clase./ There are more than twenty students in the class.
+=> No hay más que veinte estudiantes en la clase./ There are only twenty students in the class.
+```
+
 ## Verb
 
 ### Subject Pronouns
@@ -1114,8 +1145,6 @@ There are many irregular verbs in Spanish. These verbs do not follow the normal 
 | dar (to give)   | doy   | das    | da                | damos             | dais              | dan                      |
 
 - **estar**, **ir**, and **dar** are irregular in the first person singular (**yo**).
-
-ir and dar follow the same pattern as estar; they are irregular in the first person singular (yo).
 
 ## Expressions
 
