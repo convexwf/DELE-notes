@@ -3,8 +3,10 @@
 ## 备考资料
 
 - [最全Dele备考材料清单，建议收藏~ - 知乎](https://zhuanlan.zhihu.com/p/357901920)
-- [Learn Spanish Online at StudySpanish.com](https://studyspanish.com/)
 - [CVC. Plan Curricular del Instituto Cervantes. Índice.](https://cvc.cervantes.es/ensenanza/biblioteca_ele/plan_curricular/indice.htm)
+- [西班牙语DELE考场全还原+备考攻略（超长干货+文末福利！） - 知乎](https://zhuanlan.zhihu.com/p/62250566)
+- [DELE B2 考试资料分享系列（一） - 知乎](https://zhuanlan.zhihu.com/p/121048021)
+- [Learn Spanish Online at StudySpanish.com](https://studyspanish.com/)
 
 ## 语法
 
