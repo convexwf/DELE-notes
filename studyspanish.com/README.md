@@ -57,6 +57,8 @@
 * Irregular Verbs: "Estar," "Ir," "Dar"
 * Stem-Changing Verbs
 * Verbs with Irregular First Persons
+* Reflexive Verbs
+* Weather Expressions
 * Ser vs Estar
 
 ### 3.2 Periphrastic Verb Structures（动词 + 不定式结构）
@@ -129,14 +131,17 @@
 * Preterite
 * Imperfect
 * Preterite vs Imperfect
+* Future Tense
+* The Conditional Tense
+
+### 6.2 Perfect Tenses（完成时态）
+
 * Past Participle
 * Present Perfect
 * Past Perfect
-* Future Tense
 * Future Perfect
-* The Conditional Tense
 
-### 6.2 Subjunctive Mood（虚拟式）
+### 6.3 Subjunctive Mood（虚拟式）
 
 * Subjunctive
 * Imperfect Subjunctive I
@@ -148,11 +153,13 @@
 
 ### 7.1 Imperatives by Person（按人称区分的命令式）
 
-* Formal Commands (Usted/Ustedes)
+* Formal Commands
 * Informal Commands ("Tú")
 * Irregular Commands ("Tú")
 * Informal Commands ("Vosotros")
 * First-Person Commands ("Nosotros")
+* Indirect Commands
+* Using Object Pronouns with Commands
 
 ---
 
