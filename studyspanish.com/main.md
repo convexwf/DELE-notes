@@ -1,6 +1,15 @@
 # test
 
-[Spanish Grammar | Learn Spanish Grammar at StudySpanish.com](https://studyspanish.com/grammar)
+总结笔记任务
+
+1. **用与原文相同的语言**进行总结（例如原文是英文，你就用英文总结）
+2. 总结格式请使用 **Markdown**
+3. 如果内容较长，不能一次总结完，请**分多次输出**：
+   * 每次未完结时，请在最后加一句：`to be continued`
+   * 最后一条总结请以：`fin` 结尾
+4. 总结内容应是**条理清晰、结构分明的笔记风格**，适合复习用
+5. **不要擅自调整语言或格式结构**，务必完全按要求输出
+6. 回答包裹在 ```markdown``` 中，不需要其他任何结语或者提示。
 
 ## Verb: Hay
 
@@ -33,36 +42,6 @@ No. No hay./ No. No there aren’t.
 ```
 
 ## Verb
-
-### Subject Pronouns
-
-| Subject Pronoun       | English Equivalent                            | Example            |
-| --------------------- | --------------------------------------------- | ------------------ |
-| yo                    | I                                             | Yo hablo.          |
-| usted (Ud. / Vd.)     | you (formal)                                  | Usted habla.       |
-| tú                    | you (informal)                                | Tú hablas.         |
-| él                    | he                                            | Él habla.          |
-| ella                  | she                                           | Ella habla.        |
-| nosotros              | we (masculine or mixed gender)                | Nosotros hablamos. |
-| nosotras              | we (feminine)                                 | Nosotras hablamos. |
-| ustedes (Uds. / Vds.) | you-all (formal)                              | Ustedes hablan.    |
-| vosotros              | you-all (informal, masculine or mixed gender) | Vosotros habláis.  |
-| vosotras              | you-all (informal, feminine)                  | Vosotras habláis.  |
-| ellos                 | they (masculine or mixed gender)              | Ellos hablan.      |
-| ellas                 | they (feminine)                               | Ellas hablan.      |
-
-(1) Spanish has a formal and an informal form of the word **“you”** .
-
-**“Usted”** is more formal and is generally used to express respect. **“Tú”** is more familiar and is used among friends, coworkers, relatives, or when addressing a child.
-
-(2) When referring to **“you-all”** , there are two choices in Spanish: **“ustedes”** for the formal and **“vosotros”** for the informal.
-
-However, the **vosotros** form is used primarily in **Spain**. Throughout **Latin America**, **“ustedes”** is generally used in both formal and informal situations to refer to “you-all.”
-
-> **usted** can be abbreviated as **Ud.** or **Vd.**.  
-> **ustedes** can be abbreviated as **Uds.** or **Vds.**.  
-
-(3) In many ways, Spanish is more gender-specific than English. So, Spanish has different words for **“we”** / **“they”** / **“you-all”** depending on whether the group is **masculine** or **feminine**.
 
 ### Pronouns as Objects of Prepositions
 
