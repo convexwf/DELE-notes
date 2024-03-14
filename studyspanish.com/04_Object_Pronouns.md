@@ -1,5 +1,21 @@
 # Object Pronouns
 
+## What is a Pronoun?
+
+A **pronoun** replaces a noun:
+
+- Juan → **he / him**
+- María → **she / her**
+- Juan y María → **they / them**
+
+You've already learned **subject pronouns**:
+
+| Subject Pronouns         |
+| ------------------------ |
+| yo, tú, él, ella, usted  |
+| nosotros/as, vosotros/as |
+| ellos/as, ustedes        |
+
 ## Direct Object Pronouns (ODPs)
 
 ### What Is a Direct Object?
