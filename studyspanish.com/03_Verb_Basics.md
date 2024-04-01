@@ -35,8 +35,39 @@ The ending depends on:
 
 **-ar Verbs (hablar - to speak)**
 
-| Subject Pronoun  | Ending | Example  |
-| ---------------- | ------ | -------- |
+| Subject Pronoun  | End### Practice Examples
+
+**Statements:**
+
+```markdown
+Hay una computadora en mi cuarto.
+→ There is a computer in my room.
+
+Hay veinte estudiantes en la clase.
+→ There are twenty students in the class.
+```
+
+**Questions:**
+
+```markdown
+¿Hay agua en el refrigerador?
+→ Is there water in the refrigerator?
+
+¿Hay tareas para mañana?
+→ Is there homework for tomorrow?
+```
+
+**Answers:**
+
+```markdown
+Sí, hay.
+→ Yes, there is/are.
+
+No, no hay.
+→ No, there isn't/aren't.
+```
+
+> **💡 Memory Tip:** Think of "hay" as the Spanish "there is/are" that never changes its form. Whether you're talking about one elephant or a thousand elephants, you always use "hay" - **Hay un elefante** (there is an elephant) and **Hay mil elefantes** (there are a thousand elephants). ---------------- | ------ | -------- |
 | yo               | -o     | hablo    |
 | tú               | -as    | hablas   |
 | él/ella/Ud.      | -a     | habla    |
@@ -593,3 +624,383 @@ Unlike regular verbs where only the ending changes, **stem-changing verbs** also
 - -ar verbs still use -ar endings, -er verbs use -er endings, etc.
 
 > **💡 Study Tip:** Practice with the "boot" visual - imagine drawing a boot around the forms that change (yo, tú, él/ella/Ud., ellos/ellas/Uds.) while nosotros and vosotros stay outside the boot with their original stems.
+
+## 🔹 Common Irregular Verbs
+
+### Why Learn Irregular Verbs?
+
+While regular and stem-changing verbs follow predictable patterns, **irregular verbs** don't follow standard conjugation rules. These verbs must be **memorized** because their conjugations are unique. However, many irregular verbs are among the most frequently used verbs in Spanish, making them essential to learn.
+
+**Learning Strategy:**
+
+- Create flashcards for each irregular verb group
+- Study them frequently (3-4 minutes per session, multiple times daily)
+- Focus on memorization rather than trying to find patterns
+
+### Tener and Venir
+
+These two verbs are grouped together because they follow **very similar conjugation patterns**, both ending in **-go** in the yo form and having similar changes throughout.
+
+**tener (to have)**
+
+| Subject Pronoun  | Conjugation |
+| ---------------- | ----------- |
+| yo               | tengo       |
+| tú               | tienes      |
+| él/ella/Ud.      | tiene       |
+| nosotros/as      | tenemos     |
+| vosotros/as      | tenéis      |
+| ellos/ellas/Uds. | tienen      |
+
+**venir (to come)**
+
+| Subject Pronoun  | Conjugation |
+| ---------------- | ----------- |
+| yo               | vengo       |
+| tú               | vienes      |
+| él/ella/Ud.      | viene       |
+| nosotros/as      | venimos     |
+| vosotros/as      | venís       |
+| ellos/ellas/Uds. | vienen      |
+
+**Pattern Recognition:**
+
+- Both have **-go** endings in the yo form: *tengo, vengo*
+- Both change the stem vowel **e → ie** in tú, él/ella/Ud., and ellos/ellas/Uds. forms
+- Both keep regular endings in nosotros and vosotros forms
+
+**Examples:**
+
+- **Tengo una casa nueva.** - I have a new house.
+- **¿Tienes tiempo?** - Do you have time?
+- **Vengo de Colombia.** - I come from Colombia.
+- **¿Vienes a la fiesta?** - Are you coming to the party?
+
+### Estar, Ir, and Dar
+
+These three verbs share a common characteristic: they are **irregular in the first person singular (yo form)** but follow more regular patterns in other forms.
+
+**estar (to be) - already covered in detail above**
+
+| Subject Pronoun  | Conjugation |
+| ---------------- | ----------- |
+| yo               | estoy       |
+| tú               | estás       |
+| él/ella/Ud.      | está        |
+| nosotros/as      | estamos     |
+| vosotros/as      | estáis      |
+| ellos/ellas/Uds. | están       |
+
+**ir (to go)**
+
+| Subject Pronoun  | Conjugation |
+| ---------------- | ----------- |
+| yo               | voy         |
+| tú               | vas         |
+| él/ella/Ud.      | va          |
+| nosotros/as      | vamos       |
+| vosotros/as      | vais        |
+| ellos/ellas/Uds. | van         |
+
+**dar (to give)**
+
+| Subject Pronoun  | Conjugation |
+| ---------------- | ----------- |
+| yo               | doy         |
+| tú               | das         |
+| él/ella/Ud.      | da          |
+| nosotros/as      | damos       |
+| vosotros/as      | dais        |
+| ellos/ellas/Uds. | dan         |
+
+**Pattern Recognition:**
+
+- All three have **irregular yo forms**: *estoy, voy, doy*
+- **ir** is completely irregular - it doesn't even resemble its infinitive
+- **dar** is unusual because it's an -ar verb but uses -er/-ir endings in some forms
+
+**Usage Examples:**
+
+**Estar:**
+
+- **Estoy en casa.** - I'm at home.
+- **¿Cómo estás?** - How are you?
+
+**Ir:**
+
+- **Voy al supermercado.** - I'm going to the supermarket.
+- **¿Vas a estudiar?** - Are you going to study?
+
+**Dar:**
+
+- **Te doy mi número.** - I'll give you my number.
+- **¿Me das agua?** - Will you give me water?
+
+### Flashcard Method
+
+**For Tener and Venir:**
+
+*Front of card:* **tener (to have) / venir (to come)**
+
+*Back of card:*
+
+tengo / vengo  
+tienes / vienes  
+tiene / viene  
+tenemos / venimos  
+tenéis / venís  
+tienen / vienen
+
+**For Estar, Ir, and Dar:**
+
+*Front of card:* **estar, ir, dar**
+
+*Back of card:*
+
+estoy – voy – doy  
+estás – vas – das  
+está – va – da  
+estamos – vamos – damos  
+estáis – vais – dais  
+están – van – dan
+
+### Key Learning Points
+
+**Complete Memorization Required**
+
+- Unlike regular verbs, you cannot predict these conjugations from rules
+- Focus on frequency: study these cards multiple times daily
+- Short, frequent sessions (3-4 minutes) are more effective than long study periods
+
+**High-Frequency Verbs**
+
+- These irregular verbs are among the most commonly used in Spanish
+- **tener** appears in many expressions: *tener hambre* (to be hungry), *tener sed* (to be thirsty)
+- **ir** is used to form the immediate future: *voy a estudiar* (I'm going to study)
+- **estar** is essential for location and temporary states
+
+**Connection to Previous Concepts**
+
+- **estar** was already covered in the "Ser vs Estar" section - this reinforces its importance
+- These irregular verbs work with the same pronoun rules learned with regular verbs
+- The same three meanings of present tense apply to irregular verbs
+
+> **💡 Study Strategy:** Carry your verb flashcards with you and review them several times throughout the day. Consistency beats intensity - frequent short reviews will help you memorize these essential irregular patterns more effectively than cramming.
+
+## 🔹 The Special Verb Form "Hay"
+
+### What is "Hay"?
+
+**"Hay"** is a unique verb form that doesn't change regardless of whether you're talking about one thing or many things. It's derived from the verb **haber** (to have/there to be) and serves as the Spanish equivalent of English "there is" and "there are."
+
+**Key Characteristic:**
+
+- **One form for everything**: Unlike English, Spanish uses the same word "hay" for both singular and plural
+
+### Two Meanings of "Hay"
+
+**hay** = there is / there are
+
+**Examples:**
+
+**Singular (there is):**
+
+```markdown
+Hay un libro encima de la mesa.
+→ There is a book on the table.
+
+Hay un hotel en el centro.
+→ There is a hotel downtown.
+```
+
+**Plural (there are):**
+
+```markdown
+Hay muchos libros en la biblioteca.
+→ There are many books in the library.
+
+Hay dos baños en mi casa.
+→ There are two bathrooms in my house.
+
+Hay cuatro océanos en el mundo.
+→ There are 4 oceans in the world.
+```
+
+**Mixed (singular and plural together):**
+
+```markdown
+Hay un libro y una pluma en la mesa.
+→ There is a book and a pen on the table.
+```
+
+### Using "Hay" in Questions
+
+In questions, **"hay"** maintains the same form but takes on interrogative meanings:
+
+**¿Hay...?** = Is there...? / Are there...?
+
+**Question Examples:**
+
+**Singular questions:**
+
+```markdown
+¿Hay un hotel en el centro?
+→ Is there a hotel downtown?
+
+¿Hay una chica o dos?
+→ Is there one girl or two?
+```
+
+**Plural questions:**
+
+```markdown
+¿Hay algunos libros por aquí?
+→ Are there any books around here?
+
+¿Hay muchos estudiantes en la clase?
+→ Are there lots of students in the class?
+
+¿Hay cuatro sillas en el cuarto?
+→ Are there 4 chairs in the room?
+```
+
+### Answering Questions with "Hay"
+
+**"Hay"** can be used in short answers to confirm or deny the existence of something:
+
+**Affirmative Answers:**
+
+```markdown
+¿Hay un hotel en el centro?
+→ Is there a hotel downtown?
+
+Sí. Sí hay.
+→ Yes. Yes there is.
+```
+
+**Negative Answers:**
+
+```markdown
+¿Hay algunos libros por aquí?
+→ Are there any books around here?
+
+No. No hay.
+→ No. No there aren't.
+```
+
+### Important Grammar Points
+
+**No Plural Agreement**
+
+- Unlike most Spanish verbs, "hay" never changes form
+
+```markdown
+❌ Wrong: Hayen muchos libros
+✅ Correct: Hay muchos libros
+```
+
+**Word Order**
+
+- "Hay" typically comes at the beginning of the sentence
+- The noun or noun phrase follows "hay"
+- Location/place usually comes at the end
+
+**Pattern**: **Hay** + **[object/thing]** + **[location]**
+
+```markdown
+Hay una mesa en la cocina.
+→ There is a table in the kitchen.
+
+Hay tres estudiantes en el aula.
+→ There are three students in the classroom.
+```
+
+### Usage Patterns
+
+**With Numbers:**
+
+```markdown
+Hay dos gatos en el jardín.
+→ There are two cats in the garden.
+
+Hay cinco libros en la mesa.
+→ There are five books on the table.
+```
+
+**With Indefinite Articles:**
+
+```markdown
+Hay un problema.
+→ There is a problem.
+
+Hay una fiesta esta noche.
+→ There is a party tonight.
+```
+
+**With Adjectives:**
+
+```markdown
+Hay muchos estudiantes.
+→ There are many students.
+
+Hay algunos libros interesantes.
+→ There are some interesting books.
+```
+
+**With Location Expressions:**
+
+```markdown
+Hay un banco cerca de aquí.
+→ There is a bank near here.
+
+Hay flores en el jardín.
+→ There are flowers in the garden.
+```
+
+### Common Mistakes to Avoid
+
+**Don't Use "Está/Están" for Existence**
+
+```markdown
+❌ Wrong: Están muchos libros en la biblioteca
+✅ Correct: Hay muchos libros en la biblioteca
+```
+
+**Don't Try to Make "Hay" Agree**
+
+```markdown
+❌ Wrong: ¿Hayen estudiantes?
+✅ Correct: ¿Hay estudiantes?
+```
+
+**Remember the Word Order**
+
+```markdown
+❌ Less common: En la mesa hay un libro
+✅ Better: Hay un libro en la mesa
+```
+
+### Flashcard for "Hay"
+
+**Front of card:** **hay**
+
+**Back of card:** there is, there are
+
+### Practice Examples
+
+**Statements:**
+
+- **Hay una computadora en mi cuarto.** - There is a computer in my room.
+- **Hay veinte estudiantes en la clase.** - There are twenty students in the class.
+
+**Questions:**
+
+- **¿Hay agua en el refrigerador?** - Is there water in the refrigerator?
+- **¿Hay tareas para mañana?** - Is there homework for tomorrow?
+
+**Answers:**
+
+- **Sí, hay.** - Yes, there is/are.
+- **No, no hay.** - No, there isn't/aren't.
+
+> **💡 Memory Tip:** Think of "hay" as the Spanish "there is/are" that never changes its form. Whether you're talking about one elephant or a thousand elephants, you always use "hay" - **Hay un elefante** (there is an elephant) and **Hay mil elefantes** (there are a thousand elephants).
