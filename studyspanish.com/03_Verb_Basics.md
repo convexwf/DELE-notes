@@ -1,5 +1,16 @@
 # Verb Basics
 
+## Table of Contents
+
+1. [What is a Verb?](#-what-is-a-verb)
+2. [Regular Verbs](#-regular-verbs)
+3. [Ser vs Estar - The Two "To Be" Verbs](#-ser-vs-estar---the-two-to-be-verbs)
+4. [Stem-Changing Verbs](#-stem-changing-verbs)
+5. [Common Irregular Verbs](#-common-irregular-verbs)
+6. [The Special Verb Form "Hay"](#-the-special-verb-form-hay)
+
+---
+
 ## 🔹 What is a Verb?
 
 - A verb expresses **action**.
@@ -35,39 +46,8 @@ The ending depends on:
 
 **-ar Verbs (hablar - to speak)**
 
-| Subject Pronoun  | End### Practice Examples
-
-**Statements:**
-
-```markdown
-Hay una computadora en mi cuarto.
-→ There is a computer in my room.
-
-Hay veinte estudiantes en la clase.
-→ There are twenty students in the class.
-```
-
-**Questions:**
-
-```markdown
-¿Hay agua en el refrigerador?
-→ Is there water in the refrigerator?
-
-¿Hay tareas para mañana?
-→ Is there homework for tomorrow?
-```
-
-**Answers:**
-
-```markdown
-Sí, hay.
-→ Yes, there is/are.
-
-No, no hay.
-→ No, there isn't/aren't.
-```
-
-> **💡 Memory Tip:** Think of "hay" as the Spanish "there is/are" that never changes its form. Whether you're talking about one elephant or a thousand elephants, you always use "hay" - **Hay un elefante** (there is an elephant) and **Hay mil elefantes** (there are a thousand elephants). ---------------- | ------ | -------- |
+| Subject Pronoun  | Ending | Example  |
+| ---------------- | ------ | -------- |
 | yo               | -o     | hablo    |
 | tú               | -as    | hablas   |
 | él/ella/Ud.      | -a     | habla    |
@@ -637,7 +617,7 @@ While regular and stem-changing verbs follow predictable patterns, **irregular v
 - Study them frequently (3-4 minutes per session, multiple times daily)
 - Focus on memorization rather than trying to find patterns
 
-### Tener and Venir
+### Completely Irregular Verbs: Tener and Venir
 
 These two verbs are grouped together because they follow **very similar conjugation patterns**, both ending in **-go** in the yo form and having similar changes throughout.
 
@@ -669,14 +649,7 @@ These two verbs are grouped together because they follow **very similar conjugat
 - Both change the stem vowel **e → ie** in tú, él/ella/Ud., and ellos/ellas/Uds. forms
 - Both keep regular endings in nosotros and vosotros forms
 
-**Examples:**
-
-- **Tengo una casa nueva.** - I have a new house.
-- **¿Tienes tiempo?** - Do you have time?
-- **Vengo de Colombia.** - I come from Colombia.
-- **¿Vienes a la fiesta?** - Are you coming to the party?
-
-### Estar, Ir, and Dar
+### Completely Irregular Verbs: Estar, Ir, and Dar
 
 These three verbs share a common characteristic: they are **irregular in the first person singular (yo form)** but follow more regular patterns in other forms.
 
@@ -713,77 +686,100 @@ These three verbs share a common characteristic: they are **irregular in the fir
 | vosotros/as      | dais        |
 | ellos/ellas/Uds. | dan         |
 
-**Pattern Recognition:**
+### First Person Irregular Verbs (yo form only)
 
-- All three have **irregular yo forms**: *estoy, voy, doy*
-- **ir** is completely irregular - it doesn't even resemble its infinitive
-- **dar** is unusual because it's an -ar verb but uses -er/-ir endings in some forms
+Many verbs are **mostly regular** but have **irregular yo forms**. These follow normal patterns for all other pronouns but require special memorization for the yo form.
 
-**Usage Examples:**
+**Complete List of Important First Person Irregular Verbs:**
 
-**Estar:**
+| Verb     | Translation                    | Irregular yo Form |
+| -------- | ------------------------------ | ----------------- |
+| caber    | to fit                         | yo quepo          |
+| caer     | to fall                        | yo caigo          |
+| conducir | to drive                       | yo conduzco       |
+| conocer  | to know, to be acquainted with | yo conozco        |
+| dar      | to give                        | yo doy            |
+| dirigir  | to direct                      | yo dirijo         |
+| escoger  | to choose                      | yo escojo         |
+| hacer    | to do, to make                 | yo hago           |
+| poner    | to put, to place               | yo pongo          |
+| saber    | to know something (a fact)     | yo sé             |
+| salir    | to leave                       | yo salgo          |
+| seguir   | to follow                      | yo sigo           |
+| traer    | to bring                       | yo traigo         |
+| valer    | to be worth                    | yo valgo          |
+| ver      | to see                         | yo veo            |
 
-- **Estoy en casa.** - I'm at home.
-- **¿Cómo estás?** - How are you?
+**Three Helpful Spelling Patterns:**
 
-**Ir:**
+1. **-cer/-cir verbs**: c → zc/z (conocer → conozco, conducir → conduzco)
+2. **-ger/-gir verbs**: g → j (escoger → escojo, dirigir → dirijo)  
+3. **-guir verbs**: gu → g (seguir → sigo, conseguir → consigo)
 
-- **Voy al supermercado.** - I'm going to the supermarket.
-- **¿Vas a estudiar?** - Are you going to study?
+**Sample Conjugations (only yo form is irregular):**
 
-**Dar:**
+**hacer (to do/make)**: yo hago, tú haces, él/ella hace, nosotros hacemos, ellos hacen  
+**conocer (to know)**: yo conozco, tú conoces, él/ella conoce, nosotros conocemos, ellos conocen  
+**salir (to leave)**: yo salgo, tú sales, él/ella sale, nosotros salimos, ellos salen
 
-- **Te doy mi número.** - I'll give you my number.
-- **¿Me das agua?** - Will you give me water?
+**Common Usage Examples:**
+
+```markdown
+Hacer: ¿Qué haces? → Yo hago mi tarea.
+Conocer: ¿Conoces a María? → Yo conozco a tu hermano.
+Salir: ¿A qué hora sales? → Yo salgo a las ocho.
+Poner: ¿Dónde pones las llaves? → Yo pongo las llaves aquí.
+Saber: ¿Sabes español? → Yo sé un poco.
+```
+
+### Saber vs Conocer
+
+Both mean "to know" but are used differently:
+
+**saber** = to know facts, information, how to do something  
+**conocer** = to know people, places, to be familiar with
+
+```markdown
+Saber examples:
+Yo sé tu número. → I know your number.
+¿Sabes nadar? → Do you know how to swim?
+
+Conocer examples:
+Yo conozco a María. → I know María.
+¿Conoces Madrid? → Do you know Madrid?
+```
+
+### Usage Examples
+
+```markdown
+Hacer: ¿Qué haces? → Yo hago mi tarea.
+Salir: ¿A qué hora sales? → Yo salgo a las ocho.
+Poner: ¿Dónde pones las llaves? → Yo pongo las llaves aquí.
+```
 
 ### Flashcard Method
 
-**For Tener and Venir:**
+**For Completely Irregular Verbs:**
 
-*Front of card:* **tener (to have) / venir (to come)**
+*Front:* **tener (to have) / venir (to come)**  
+*Back:* tengo/vengo, tienes/vienes, tiene/viene...
 
-*Back of card:*
+*Front:* **estar, ir, dar**  
+*Back:* estoy-voy-doy, estás-vas-das, está-va-da...
 
-tengo / vengo  
-tienes / vienes  
-tiene / viene  
-tenemos / venimos  
-tenéis / venís  
-tienen / vienen
+**For First Person Irregular:**
 
-**For Estar, Ir, and Dar:**
+*Front:* **hacer, conocer, saber, salir, poner**  
+*Back:* hago, conozco, sé, salgo, pongo
 
-*Front of card:* **estar, ir, dar**
+### Study Priority
 
-*Back of card:*
+**Master these high-frequency verbs first:**
 
-estoy – voy – doy  
-estás – vas – das  
-está – va – da  
-estamos – vamos – damos  
-estáis – vais – dais  
-están – van – dan
-
-### Key Learning Points
-
-**Complete Memorization Required**
-
-- Unlike regular verbs, you cannot predict these conjugations from rules
-- Focus on frequency: study these cards multiple times daily
-- Short, frequent sessions (3-4 minutes) are more effective than long study periods
-
-**High-Frequency Verbs**
-
-- These irregular verbs are among the most commonly used in Spanish
-- **tener** appears in many expressions: *tener hambre* (to be hungry), *tener sed* (to be thirsty)
-- **ir** is used to form the immediate future: *voy a estudiar* (I'm going to study)
-- **estar** is essential for location and temporary states
-
-**Connection to Previous Concepts**
-
-- **estar** was already covered in the "Ser vs Estar" section - this reinforces its importance
-- These irregular verbs work with the same pronoun rules learned with regular verbs
-- The same three meanings of present tense apply to irregular verbs
+1. **hacer** (yo hago) - extremely common
+2. **saber/conocer** (yo sé/conozco) - essential for knowledge
+3. **salir** (yo salgo) - daily activities
+4. **tener/venir** (tengo/vengo) - fundamental verbs
 
 > **💡 Study Strategy:** Carry your verb flashcards with you and review them several times throughout the day. Consistency beats intensity - frequent short reviews will help you memorize these essential irregular patterns more effectively than cramming.
 
