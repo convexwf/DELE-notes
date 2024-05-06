@@ -6,9 +6,11 @@
 2. [Ir A + Infinitive (Near Future)](#-ir-a--infinitive-near-future)
 3. [Acabar De + Infinitive (Recent Past)](#-acabar-de--infinitive-recent-past)
 4. [Volver A + Infinitive (Repetition)](#-volver-a--infinitive-repetition)
-5. [Other Common Verb + Infinitive Constructions](#-other-common-verb--infinitive-constructions)
-6. [Time Expressions](#-time-expressions)
-7. [Practice and Usage Tips](#-practice-and-usage-tips)
+5. [Tener Que & Hay Que (Obligation and Necessity)](#-tener-que--hay-que-obligation-and-necessity)
+6. [Idiomatic Expressions with Tener](#-idiomatic-expressions-with-tener)
+7. [Other Common Verb + Infinitive Constructions](#-other-common-verb--infinitive-constructions)
+8. [Time Expressions](#-time-expressions)
+9. [Practice and Usage Tips](#-practice-and-usage-tips)
 
 ---
 
@@ -251,6 +253,360 @@ Vuelvo a estudiar. → I study again. (verb construction)
 Estudio otra vez. → I study another time. (adverbial phrase)
 ```
 
+## 🔹 Tener Que & Hay Que (Obligation and Necessity)
+
+### Two Ways to Express Obligation
+
+Spanish has two main structures to express **obligation** and **necessity**:
+
+1. **Tener que + infinitive** = someone has to do something (personal obligation)
+2. **Hay que + infinitive** = one must do something, it's necessary (general obligation)
+
+### Tener Que + Infinitive (Personal Obligation)
+
+**Formula:** [Subject] + [tener conjugated] + que + [infinitive]
+
+**Meaning:** "Someone has to do something"
+
+#### Conjugation of Tener
+
+Remember that **tener** is an irregular verb:
+
+| Subject Pronoun     | Tener Conjugation | Example             |
+| ------------------- | ----------------- | ------------------- |
+| yo                  | tengo             | Tengo que estudiar  |
+| tú                  | tienes            | Tienes que trabajar |
+| él/ella/usted       | tiene             | Tiene que comer     |
+| nosotros/as         | tenemos           | Tenemos que ir      |
+| vosotros/as         | tenéis            | Tenéis que venir    |
+| ellos/ellas/ustedes | tienen            | Tienen que salir    |
+
+#### Daily Examples
+
+```markdown
+Tengo que comer las verduras.
+→ I have to eat the vegetables.
+
+Ángel tiene que leer el periódico.
+→ Ángel has to read the newspaper.
+
+Ellos tienen que comprar una revista.
+→ They have to buy a magazine.
+
+Tenemos que estudiar para el examen.
+→ We have to study for the exam.
+
+¿Tienes que trabajar mañana?
+→ Do you have to work tomorrow?
+```
+
+#### When to Use Tener Que
+
+Use **tener que** when:
+
+- **Specific person** has an obligation
+- **Personal responsibility** is involved
+- **Individual circumstances** create the need
+
+```markdown
+María tiene un examen el lunes. Ella tiene que estudiar.
+→ María has a test on Monday. She has to study.
+
+Tengo una cita a las tres. Tengo que salir ahora.
+→ I have an appointment at three. I have to leave now.
+```
+
+### Hay Que + Infinitive (General Obligation)
+
+**Formula:** hay que + [infinitive]
+
+**Meaning:** "One must do something" / "It is necessary to do something"
+
+#### Key Characteristics
+
+- **No subject** - it's an impersonal expression
+- **hay** never changes (no conjugation needed)
+- **General obligation** for everyone
+- **Universal necessity**
+
+#### Common Examples
+
+```markdown
+Hay que tomar un taxi.
+→ It is necessary to take a taxi.
+
+Hay que estudiar mucho.
+→ One must study a lot.
+
+Hay que ser puntual.
+→ One must be punctual.
+
+Hay que practicar todos los días.
+→ It's necessary to practice every day.
+
+¿Hay que comprar boletos?
+→ Is it necessary to buy tickets?
+```
+
+#### When to Use Hay Que
+
+Use **hay que** when:
+
+- **General rule** applies to everyone
+- **Universal necessity** or advice
+- **No specific person** is mentioned
+- **Impersonal recommendations**
+
+```markdown
+No es fácil aprender el español. Hay que practicar mucho.
+→ It isn't easy to learn Spanish. It is necessary to practice a lot.
+
+Para ser médico, hay que estudiar muchos años.
+→ To be a doctor, one must study many years.
+```
+
+### Tener Que vs Hay Que Comparison
+
+**Side-by-Side Examples:**
+
+| Tener Que (Personal)               | Hay Que (General)                           |
+| ---------------------------------- | ------------------------------------------- |
+| **Tengo que** estudiar esta noche. | **Hay que** estudiar para aprobar.          |
+| (I have to study tonight.)         | (One must study to pass.)                   |
+| **María tiene que** trabajar.      | **Hay que** trabajar para vivir.            |
+| (María has to work.)               | (One must work to live.)                    |
+| **Tienes que** comer verduras.     | **Hay que** comer verduras para estar sano. |
+| (You have to eat vegetables.)      | (One must eat vegetables to be healthy.)    |
+
+### Context Examples
+
+**Personal Situation (Tener Que):**
+
+```markdown
+- Mi coche está roto. Tengo que caminar al trabajo.
+  → My car is broken. I have to walk to work.
+
+- Los estudiantes tienen que entregar la tarea mañana.
+  → The students have to turn in homework tomorrow.
+```
+
+**General Rules (Hay Que):**
+
+```markdown
+- Para conducir un coche, hay que tener licencia.
+  → To drive a car, one must have a license.
+
+- En este restaurante, hay que pagar antes de comer.
+  → In this restaurant, one must pay before eating.
+```
+
+### Negative Forms
+
+**Tener Que Negative:**
+
+```markdown
+No tengo que trabajar los domingos.
+→ I don't have to work on Sundays.
+
+Él no tiene que estudiar hoy.
+→ He doesn't have to study today.
+```
+
+**Hay Que Negative:**
+
+```markdown
+No hay que gritar en la biblioteca.
+→ One must not shout in the library.
+
+No hay que correr en los pasillos.
+→ One must not run in the hallways.
+```
+
+### Question Forms
+
+**Tener Que Questions:**
+
+```markdown
+¿Tienes que estudiar esta noche?
+→ Do you have to study tonight?
+
+¿Cuándo tiene que terminar el proyecto?
+→ When does he have to finish the project?
+```
+
+**Hay Que Questions:**
+
+```markdown
+¿Hay que llevar uniforme?
+→ Is it necessary to wear a uniform?
+
+¿Hay que hacer reservación?
+→ Is it necessary to make a reservation?
+```
+
+### Other Related Expressions
+
+**Similar Constructions:**
+
+| Expression                      | Meaning           | Example                                                        |
+| ------------------------------- | ----------------- | -------------------------------------------------------------- |
+| **deber + infinitive**          | should, ought to  | Debo estudiar. (I should study)                                |
+| **necesitar + infinitive**      | to need to        | Necesito descansar. (I need to rest)                           |
+| **es necesario + infinitive**   | it's necessary to | Es necesario practicar. (It's necessary to practice)           |
+| **es obligatorio + infinitive** | it's mandatory to | Es obligatorio llevar casco. (It's mandatory to wear a helmet) |
+
+### Practice Exercises
+
+**Choose Tener Que or Hay Que:**
+
+1. Para aprender español, _____ practicar mucho. (hay que)
+2. María _____ estudiar para su examen mañana. (tiene que)
+3. En el hospital, _____ estar en silencio. (hay que)
+4. Nosotros _____ comprar comida para la fiesta. (tenemos que)
+
+**Transform these sentences:**
+
+- Es necesario estudiar. → Hay que estudiar.
+- Juan debe trabajar. → Juan tiene que trabajar.
+- Es obligatorio pagar impuestos. → Hay que pagar impuestos.
+
+### Learning Exercises
+
+**Choose Tener Que or Hay Que:**
+
+> **💡 Study Tip:** Remember the key difference: **Tener que** is for specific people in specific situations, while **Hay que** is for general rules that apply to everyone. Practice by thinking about your daily obligations (tener que) and general life rules (hay que).
+
+---
+
+## 🎯 Idiomatic Expressions with Tener
+
+The verb "tener" (to have) is used in many idiomatic expressions in Spanish that don't translate literally to English. These expressions typically follow the pattern **tener + noun** instead of using the verb "to be" as in English.
+
+### Physical Sensations and Conditions
+
+These expressions describe physical states and bodily sensations:
+
+| Spanish Expression | English Translation | Literal Translation |
+| ------------------ | ------------------- | ------------------- |
+| **tener hambre**   | to be hungry        | to have hunger      |
+| **tener sed**      | to be thirsty       | to have thirst      |
+| **tener frío**     | to be cold          | to have coldness    |
+| **tener calor**    | to be hot           | to have heat        |
+| **tener sueño**    | to be sleepy        | to have sleepiness  |
+| **tener dolor**    | to be in pain       | to have pain        |
+
+#### Physical Sensations Examples
+
+- **Tengo hambre.** - I'm hungry.
+- **¿Tienes sed?** - Are you thirsty?
+- **María tiene frío.** - María is cold.
+- **Los niños tienen sueño.** - The children are sleepy.
+
+### Psychological and Emotional States
+
+These expressions describe feelings, emotions, and mental states:
+
+| Spanish Expression  | English Translation       | Literal Translation |
+| ------------------- | ------------------------- | ------------------- |
+| **tener miedo**     | to be afraid/scared       | to have fear        |
+| **tener prisa**     | to be in a hurry          | to have haste       |
+| **tener vergüenza** | to be embarrassed/ashamed | to have shame       |
+| **tener celos**     | to be jealous             | to have jealousy    |
+| **tener cuidado**   | to be careful             | to have care        |
+| **tener paciencia** | to be patient             | to have patience    |
+
+#### Psychological and Emotional Examples
+
+- **Tengo miedo de las arañas.** - I'm afraid of spiders.
+- **¿Tienes prisa?** - Are you in a hurry?
+- **Ella tiene vergüenza de hablar en público.** - She's embarrassed to speak in public.
+- **Ten cuidado con el tráfico.** - Be careful with the traffic.
+
+### Abstract Concepts and States
+
+These expressions describe various abstract concepts and states:
+
+| Spanish Expression | English Translation     | Literal Translation |
+| ------------------ | ----------------------- | ------------------- |
+| **tener razón**    | to be right             | to have reason      |
+| **tener suerte**   | to be lucky             | to have luck        |
+| **tener éxito**    | to be successful        | to have success     |
+| **tener ganas de** | to feel like/want to    | to have desire of   |
+| **tener la culpa** | to be at fault/to blame | to have the fault   |
+| **tener sentido**  | to make sense           | to have sense       |
+
+#### Abstract Concepts Examples
+
+- **Tienes razón.** - You're right.
+- **Ella tuvo mucha suerte.** - She was very lucky.
+- **Tengo ganas de ir al cine.** - I feel like going to the movies.
+- **Esto no tiene sentido.** - This doesn't make sense.
+
+### Age Expression
+
+In Spanish, age is expressed using tener instead of "to be":
+
+| Spanish Expression | English Translation |
+| ------------------ | ------------------- |
+| **tener ... años** | to be ... years old |
+
+#### Age Expression Examples
+
+- **Tengo veinticinco años.** - I'm twenty-five years old.
+- **¿Cuántos años tienes?** - How old are you?
+- **Mi hermana tiene treinta años.** - My sister is thirty years old.
+
+### Conjugation Patterns
+
+Remember that **tener** is an irregular verb. Here are the present tense conjugations:
+
+| Person              | Conjugation | Example       |
+| ------------------- | ----------- | ------------- |
+| yo                  | tengo       | Tengo hambre  |
+| tú                  | tienes      | Tienes razón  |
+| él/ella/usted       | tiene       | Tiene miedo   |
+| nosotros/as         | tenemos     | Tenemos prisa |
+| vosotros/as         | tenéis      | Tenéis suerte |
+| ellos/ellas/ustedes | tienen      | Tienen frío   |
+
+### Usage Notes
+
+1. **Intensity with "mucho/mucha"**: Most tener expressions can be intensified:
+   - **Tengo mucha hambre.** - I'm very hungry.
+   - **Tiene mucho frío.** - He's very cold.
+   - **Tenemos mucha prisa.** - We're in a big hurry.
+
+2. **Questions**: Questions are formed normally:
+   - **¿Tienes hambre?** - Are you hungry?
+   - **¿Cuántos años tiene?** - How old is he/she?
+
+3. **Negation**: Negate with "no":
+   - **No tengo miedo.** - I'm not afraid.
+   - **No tiene razón.** - He's not right.
+
+4. **Special construction with "tener ganas de"**:
+   - Always followed by infinitive or noun
+   - **Tengo ganas de dormir.** - I feel like sleeping.
+   - **Tengo ganas de pizza.** - I feel like having pizza.
+
+### Tener Expression Practice Exercises
+
+**Complete with the correct tener expression:**
+
+1. Es verano y hace 40 grados. Yo _____ mucho _____. (tengo calor)
+2. No comí nada en todo el día. _____ mucha _____. (Tengo hambre)
+3. El examen es muy difícil. _____ _____ de no aprobar. (Tengo miedo)
+4. Llegas tarde a la reunión. ¿_____ _____? (Tienes prisa)
+
+**Transform these English sentences to Spanish:**
+
+- I'm twenty years old. → Tengo veinte años.
+- She's right about the answer. → Ella tiene razón sobre la respuesta.
+- We're lucky to be here. → Tenemos suerte de estar aquí.
+- They feel like dancing. → Tienen ganas de bailar.
+
+> **💡 Study Tip:** Practice these expressions daily by describing your physical and emotional states. Remember that Spanish uses "tener + noun" where English uses "to be + adjective".
+
 ## 🔹 Other Common Verb + Infinitive Constructions
 
 ### Modal and Semi-Modal Verbs
@@ -410,7 +766,7 @@ No, voy a volver a preguntar.
 → No, I'm going to ask again.
 ```
 
-### Practice Exercises
+### Final Practice Exercises
 
 **Transform these sentences using the constructions:**
 
