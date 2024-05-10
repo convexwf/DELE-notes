@@ -255,3 +255,51 @@ Summary Comparison:
 - *29 de febrero de 1996* → February 29, 1996  
 - *29.2.96* (in Spanish format)  
 - English equivalent: *2/29/96*
+
+### Days of the Week Summary
+
+- **lunes, martes, miércoles, jueves, viernes, sábado, domingo**
+- Week begins on **Monday** in Spanish-speaking countries
+- Days are **not capitalized** and are all **masculine**
+- Use **el/los** + day to mean "on": *No trabajo el lunes* (I don't work on Monday)
+- Days ending in **-s** don't change in plural, only the article changes
+
+### Months of the Year Summary
+
+- **enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre**
+- Months are **not capitalized**
+- Use **"en"** to express "in [month]": *Vamos a México en enero*
+
+### Seasons (Las estaciones del año)
+
+- **la primavera** (spring), **el verano** (summer), **el otoño** (autumn), **el invierno** (winter)
+- Articles are usually used with seasons
+- Seasons are **reversed** in the Southern Hemisphere
+
+### Telling Time (¿Qué hora es?)
+
+- Use **es** for 1 o'clock: *Es la una*
+- Use **son** for all other hours: *Son las dos*
+- Use **feminine articles** *la/las* (because "hora" is feminine)
+- **y** = add minutes, **menos** = subtract minutes
+- **cuarto** = quarter (15 min), **media** = half (30 min)
+
+### Time Expressions
+
+- **a + la(s) + time** for when something happens: *La clase empieza a las ocho*
+- **de la mañana/tarde/noche** for specific times (A.M./P.M.)
+- **por la mañana/tarde/noche** for general time periods
+- **al mediodía** (at noon), **a la medianoche** (at midnight)
+- **en punto** (exactly), **a tiempo** (on time), **alrededor de** (around)
+
+### Duration with Hacer
+
+**Ongoing Action (Present):**
+
+- *Hace + time + que + [present tense]*
+- *[present tense] + desde hace + time*
+
+**Completed Action (Preterite - "Ago"):**
+
+- *Hace + time + que + [preterite tense]*
+- *[preterite tense] + hace + time*
