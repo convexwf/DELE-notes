@@ -1,5 +1,44 @@
 # Indicative Tenses
 
+## Table of Contents
+
+1. [**Concept Introduction**](#-what-are-tenses)
+   - What Are Tenses?
+   - What Is the Indicative Mood?
+   - Overview of Five Tenses
+
+2. [**Present Progressive**](#present-progressive)
+   - Formation Rules
+   - Stem-changing Verbs
+   - Usage Rules
+
+3. [**Preterite Tense**](#preterite-tense-pretérito)
+   - Formation Rules (Regular & Irregular)
+   - Usage Rules
+
+4. [**Imperfect Tense**](#imperfect-tense-imperfecto)
+   - Formation Rules
+   - Usage Rules
+
+5. [**Future Tense**](#future-tense-futuro)
+   - Formation Rules (Regular & Irregular)
+   - Usage Rules
+
+6. [**Conditional Tense**](#conditional-tense-condicional)
+   - Formation Rules
+   - Usage Rules
+
+7. [**Preterite vs Imperfect**](#preterite-vs-imperfect)
+   - Key Differences
+   - Time Signals
+   - Verbs That Change Meaning
+
+8. [**Quick Reference Summary**](#-quick-reference-summary)
+   - All Tense Formation
+   - Usage Comparison Chart
+
+---
+
 ## 📚 What Are Tenses?
 
 **Tense** (tiempo verbal) indicates **when** an action takes place. In Spanish, tenses help us understand whether something happened in the past, is happening now, or will happen in the future.
@@ -663,129 +702,41 @@ Compound verbs inherit the same irregularities:
 
 ---
 
-## Summary: All Indicative Tenses
+## 📚 Quick Reference Summary
 
-### Present Progressive Tense
+### 🎯 All Tense Formation Rules
 
-**Formation**: estar + present participle
+| Tense             | Formation            | Irregular Stems | Example        |
+| ----------------- | -------------------- | --------------- | -------------- |
+| **Present Prog.** | estar + gerundio     | stem changes    | estoy hablando |
+| **Preterite**     | stem + endings       | many irregular  | hablé          |
+| **Imperfect**     | stem + endings       | ser, ir, ver    | hablaba        |
+| **Future**        | infinitive + endings | 12 irregular    | hablaré        |
+| **Conditional**   | infinitive + endings | same as future  | hablaría       |
 
-| Verb Type           | Ending | Example            |
-| ------------------- | ------ | ------------------ |
-| -ar                 | -ando  | hablar → hablando  |
-| -er / -ir           | -iendo | comer → comiendo   |
-| e→i stem change     | -iendo | decir → diciendo   |
-| o→u stem change     | -iendo | dormir → durmiendo |
-| irregular spellings | -yendo | leer → leyendo     |
+### 🕐 Usage Quick Guide
 
-**Use**: Actions happening right now
+| Tense             | Use For                     | Time Signals                          | Example                           |
+| ----------------- | --------------------------- | ------------------------------------- | --------------------------------- |
+| **Present Prog.** | Actions happening now       | ahora, en este momento                | Estoy estudiando ahora.           |
+| **Preterite**     | Completed past actions      | ayer, la semana pasada, hace dos años | Ayer estudié tres horas.          |
+| **Imperfect**     | Habitual/ongoing past       | siempre, todos los días, a menudo     | Siempre estudiaba por las tardes. |
+| **Future**        | Actions that will happen    | mañana, el año que viene, pronto      | Mañana estudiaré español.         |
+| **Conditional**   | Hypothetical/polite actions | en esa situación, por favor           | Me gustaría estudiar chino.       |
 
-- Estoy hablando. → I am speaking (now)
-- Estamos durmiendo. → We are sleeping (right now)
+### ⚡ Preterite vs Imperfect Quick Test
 
-### Preterite (Completed Past Actions)
+| Preterite                     | Imperfect                           |
+| ----------------------------- | ----------------------------------- |
+| ✅ Specific time               | ✅ General/habitual time             |
+| ✅ Completed action            | ✅ Ongoing action                    |
+| ✅ Chain of events             | ✅ Background description            |
+| 🕐 ayer, anoche, hace dos años | 🕐 siempre, todos los días, a menudo |
 
-**Regular Patterns**:
+### 💡 Key Memory Tips
 
-| Verb Type   | Endings                                |
-| ----------- | -------------------------------------- |
-| **-ar**     | -é, -aste, -ó, -amos, -asteis, -aron   |
-| **-er/-ir** | -í, -iste, -ió, -imos, -isteis, -ieron |
-
-**Key Irregular Verbs**:
-
-| Verb       | yo   | él/ella | ellos    |
-| ---------- | ---- | ------- | -------- |
-| **ser/ir** | fui  | fue     | fueron   |
-| **hacer**  | hice | hizo    | hicieron |
-| **decir**  | dije | dijo    | dijeron  |
-| **tener**  | tuve | tuvo    | tuvieron |
-
-**Use**: Completed actions with definite beginning/end
-
-- Ayer escribí tres cartas. → Yesterday I wrote three letters.
-
-### Imperfect (Ongoing/Habitual Past Actions)
-
-**Regular Patterns**:
-
-| Verb Type   | Endings                                   |
-| ----------- | ----------------------------------------- |
-| **-ar**     | -aba, -abas, -aba, -ábamos, -abais, -aban |
-| **-er/-ir** | -ía, -ías, -ía, -íamos, -íais, -ían       |
-
-**Irregular Verbs** (Only 3!):
-
-| Verb    | Pattern              |
-| ------- | -------------------- |
-| **ser** | era, eras, era...    |
-| **ir**  | iba, ibas, iba...    |
-| **ver** | veía, veías, veía... |
-
-**Use**: Habitual actions, descriptions, ongoing states
-
-- Almorzábamos juntos todos los días. → We would lunch together every day.
-
-### Future (Actions That Will Happen)
-
-**Regular Pattern**: Infinitive + future endings
-
-| Person        | Ending | Example    |
-| ------------- | ------ | ---------- |
-| yo            | -é     | hablaré    |
-| tú            | -ás    | hablarás   |
-| él/ella/Ud.   | -á     | hablará    |
-| nosotros/as   | -emos  | hablaremos |
-| vosotros/as   | -éis   | hablaréis  |
-| ellos/as/Uds. | -án    | hablarán   |
-
-**Key Irregular Verbs**:
-
-| Verb      | Irregular Stem | yo Form |
-| --------- | -------------- | ------- |
-| **hacer** | har-           | haré    |
-| **decir** | dir-           | diré    |
-| **tener** | tendr-         | tendré  |
-| **poder** | podr-          | podré   |
-| **saber** | sabr-          | sabré   |
-
-**Use**: Actions that will happen in the future
-
-- El año que viene iré a España. → Next year I will go to Spain.
-
-### Conditional (Hypothetical/Polite Actions)
-
-**Regular Pattern**: Infinitive + conditional endings
-
-| Person        | Ending | Example     |
-| ------------- | ------ | ----------- |
-| yo            | -ía    | hablaría    |
-| tú            | -ías   | hablarías   |
-| él/ella/Ud.   | -ía    | hablaría    |
-| nosotros/as   | -íamos | hablaríamos |
-| vosotros/as   | -íais  | hablaríais  |
-| ellos/as/Uds. | -ían   | hablarían   |
-
-**Key Irregular Verbs** (same as future):
-
-| Verb      | Irregular Stem | yo Form |
-| --------- | -------------- | ------- |
-| **hacer** | har-           | haría   |
-| **decir** | dir-           | diría   |
-| **tener** | tendr-         | tendría |
-| **poder** | podr-          | podría  |
-| **saber** | sabr-          | sabría  |
-
-**Use**: Hypothetical actions, polite requests, probability about past
-
-- Viajaría pero no tengo dinero. → I would travel but I don't have money.
-- ¿Podría ayudarme? → Could you help me?
-
-### Quick Reference: When to Use Which Tense
-
-| Tense                   | Use For                     | Time Signals                          | Example                           |
-| ----------------------- | --------------------------- | ------------------------------------- | --------------------------------- |
-| **Present Progressive** | Actions happening now       | ahora, en este momento                | Estoy estudiando ahora.           |
-| **Preterite**           | Completed past actions      | ayer, la semana pasada, hace dos años | Ayer estudié tres horas.          |
-| **Imperfect**           | Habitual/ongoing past       | siempre, todos los días, a menudo     | Siempre estudiaba por las tardes. |
-| **Future**              | Actions that will happen    | mañana, el año que viene, pronto      | Mañana estudiaré español.         |
-| **Conditional**         | Hypothetical/polite actions | en esa situación, por favor           | Me gustaría estudiar chino.       |
+- **Future/Conditional**: Same irregular stems, different endings
+- **Preterite endings**: -ar (é, aste, ó) vs -er/-ir (í, iste, ió)
+- **Imperfect**: Only 3 irregular verbs (ser, ir, ver)
+- **Present Progressive**: Only for actions happening RIGHT NOW
+- **Preterite vs Imperfect**: Specific time vs General time
