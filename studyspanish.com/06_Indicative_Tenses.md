@@ -1,6 +1,6 @@
 # Indicative Tenses
 
-## Table of Contents
+## 📖 Table of Contents
 
 1. [**Concept Introduction**](#-what-are-tenses)
    - What Are Tenses?
