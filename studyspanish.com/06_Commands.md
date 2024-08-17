@@ -1,15 +1,83 @@
 # Commands (Imperative)
 
-## Introduction to Commands
+## 📖 Table of Contents
 
-Commands are used when ordering or telling someone to do something. This is often referred to as the **"imperative"** form of the verb.
+1. [**Concept Introduction**](#-what-are-commands)
+   - What Are Commands?
+   - Commands vs Other Moods
+   - Overview of Command Types
 
-Spanish has both **formal** and **informal** styles of speech, and this distinction applies to commands:
+2. [**Formal Commands (Ud./Uds.)**](#formal-commands-ududs)
+   - Formation Rules
+   - Regular and Irregular Forms
+   - Usage and Politeness
 
-- **Formal commands** - used to be polite or express respect (often called "polite commands")
-- **Informal commands** - used among friends, coworkers, relatives, or when addressing a child
+3. [**Informal Commands (Tú)**](#informal-commands-tú)
+   - Affirmative Commands
+   - Negative Commands
+   - Irregular Forms
+
+4. [**Vosotros Commands**](#vosotros-commands-spain)
+   - Affirmative Commands
+   - Negative Commands
+   - Reflexive Special Cases
+
+5. [**Nosotros Commands**](#nosotros-commands-lets)
+   - Formation Rules
+   - Alternative with "Vamos a"
+   - Commands with Pronouns
+
+6. [**Commands with Object Pronouns**](#commands-with-object-pronouns)
+   - Affirmative vs Negative Placement
+   - Accent Rules
+   - Double Object Pronouns
+
+7. [**Indirect Commands**](#indirect-commands)
+   - Formation with "Que"
+   - Usage and Examples
+
+8. [**Quick Reference Summary**](#-quick-reference-summary)
+   - All Command Formation
+   - Pronoun Placement Rules
+   - Memory Tips
+
+---
+
+## 📚 What Are Commands?
+
+**Commands** (imperative mood / modo imperativo) are used when ordering or telling someone to do something. The imperative is one of the three main moods in Spanish, alongside the indicative and subjunctive.
+
+> 🎯 **Key Concept**: Commands express **direct requests, orders, or instructions** to perform an action.
+
+### Commands vs Other Moods
+
+| Mood            | Purpose                 | Example                                  |
+| --------------- | ----------------------- | ---------------------------------------- |
+| **Indicative**  | States facts/reality    | *Hablas español.* (You speak Spanish.)   |
+| **Subjunctive** | Expresses doubt/emotion | *Espero que hables.* (I hope you speak.) |
+| **Imperative**  | Gives commands/orders   | *¡Habla!* (Speak!)                       |
+
+### Overview of Command Types
+
+Spanish commands vary based on **formality** and **who you're addressing**:
+
+| Command Type          | Used For                     | Examples        |
+| --------------------- | ---------------------------- | --------------- |
+| **Formal (Ud./Uds.)** | Polite/respectful situations | *Hable Ud.*     |
+| **Informal (Tú)**     | Friends, family, children    | *Habla.*        |
+| **Vosotros**          | Informal plural (Spain only) | *Hablad.*       |
+| **Nosotros**          | "Let's..." suggestions       | *Hablemos.*     |
+| **Indirect**          | Third-party commands         | *Que hable él.* |
+
+---
 
 ## Formal Commands (Ud./Uds.)
+
+### 📌 What Are Formal Commands?
+
+**Formal commands** are used to give polite or respectful orders. They're equivalent to "please do..." in English and are appropriate for business, strangers, or showing respect.
+
+> 🎯 **Key Concept**: Formal commands use the **same forms as the present subjunctive**.
 
 ### Formation Rules
 
@@ -113,6 +181,12 @@ No coma Ud. / Don't eat.
 
 ## Informal Commands (Tú)
 
+### 📌 What Are Informal Commands?
+
+**Informal commands** are used with friends, family, children, or people you're familiar with. They have different forms for affirmative (positive) and negative commands.
+
+> 🎯 **Key Concept**: Affirmative and negative tú commands use **completely different forms**.
+
 ### Affirmative Tú Commands
 
 Affirmative tú commands use the **third person singular (él/ella/Ud.) form** of the present indicative:
@@ -188,6 +262,12 @@ No sepas. / Don't know.
 
 ## Vosotros Commands (Spain)
 
+### 📌 What Are Vosotros Commands?
+
+**Vosotros commands** are informal plural commands used only in Spain. They address a group of people you're familiar with (friends, family, etc.).
+
+> 🎯 **Key Concept**: Vosotros commands are **only used in Spain**, not in Latin America.
+
 ### Affirmative Vosotros Commands
 
 Replace the **-r** of the infinitive with **-d**:
@@ -231,6 +311,12 @@ No escribáis la tarea. / (You all) Don't write the homework.
 ```
 
 ## Nosotros Commands ("Let's...")
+
+### 📌 What Are Nosotros Commands?
+
+**Nosotros commands** express suggestions like "Let's..." in English. They include the speaker in the action and are used to suggest group activities.
+
+> 🎯 **Key Concept**: Nosotros commands mean **"Let's do something together"**.
 
 ### Formation
 
@@ -294,6 +380,12 @@ Vamos a trabajar juntos. / Let's work together.
 ```
 
 ## Commands with Object Pronouns
+
+### 📌 Object Pronoun Placement Rules
+
+**Object pronouns** (me, te, lo, la, le, nos, os, los, las, les, se) have different placement rules depending on whether the command is affirmative or negative.
+
+> 🎯 **Key Concept**: Pronoun placement **changes completely** between affirmative and negative commands.
 
 ### Affirmative Commands
 
@@ -366,6 +458,12 @@ les las → se las
 
 ## Indirect Commands
 
+### 📌 What Are Indirect Commands?
+
+**Indirect commands** are used to tell someone to have a third party do something. They're formed with **que + present subjunctive** and are equivalent to "Let..." or "Have..." in English.
+
+> 🎯 **Key Concept**: Indirect commands give orders **about someone else**, not **to someone directly**.
+
 Use **que + present subjunctive** to give indirect commands:
 
 ```markdown
@@ -399,7 +497,11 @@ Que se ponga Sara el vestido negro. / Have Sara put on the black dress.
 Que no se ponga Sara el vestido blanco. / Don't have Sara put on the white dress.
 ```
 
-## Summary: Command Forms Overview
+---
+
+## 📚 Quick Reference Summary
+
+### 🎯 Command Formation Chart
 
 | Person       | Affirmative                | Negative        | Notes                        |
 | ------------ | -------------------------- | --------------- | ---------------------------- |
@@ -409,33 +511,66 @@ Que no se ponga Sara el vestido blanco. / Don't have Sara put on the white dress
 | **vosotros** | infinitive - r + d         | subjunctive     | Spain only                   |
 | **Uds.**     | subjunctive                | subjunctive     | same as formal               |
 
-### Key Grammar Rules Summary
+### 🔧 Formation Rules Quick Guide
 
-**Formation patterns:**
+| Command Type | Affirmative Formation | Negative Formation      | Example                  |
+| ------------ | --------------------- | ----------------------- | ------------------------ |
+| **Formal**   | Present subjunctive   | Present subjunctive     | *Hable / No hable*       |
+| **Tú**       | 3rd person singular   | Present subjunctive + s | *Habla / No hables*      |
+| **Vosotros** | Infinitive -r + d     | Present subjunctive     | *Hablad / No habléis*    |
+| **Nosotros** | Present subjunctive   | Present subjunctive     | *Hablemos / No hablemos* |
 
-- **Formal commands:** Present subjunctive forms
-- **Tú affirmative:** Third person singular (él/ella/Ud.) form
-- **Tú negative:** Present subjunctive + s
-- **Vosotros affirmative:** Replace infinitive -r with -d
-- **Vosotros negative:** Present subjunctive forms
-- **Nosotros:** Present subjunctive (except "vamos")
+### 📍 Object Pronoun Placement
 
-**Pronoun placement:**
+| Command Type    | Pronoun Placement | Example                            |
+| --------------- | ----------------- | ---------------------------------- |
+| **Affirmative** | Attached to end   | *Háblame* (Speak to me)            |
+| **Negative**    | Before the verb   | *No me hables* (Don't speak to me) |
 
-- **Affirmative:** Attached to end with accent marks
-- **Negative:** Separate before the verb
+### 🚨 Important Irregulars to Memorize
 
-**Important exceptions:**
+**8 Irregular Tú Commands (Affirmative):**
 
-- 8 irregular tú commands (di, haz, ve, pon, sal, sé, ten, ven)
-- 5 irregular subjunctive forms (dé, esté, vaya, sea, sepa)
-- Vamos (not vayamos) for affirmative nosotros
-- Reflexive vosotros: drop -d before -os (except irse → idos)
+- decir → **di** (say/tell)
+- hacer → **haz** (do/make)
+- ir → **ve** (go)
+- poner → **pon** (put)
+- salir → **sal** (leave)
+- ser → **sé** (be)
+- tener → **ten** (have)
+- venir → **ven** (come)
 
-> 💡 **Key Points**:
->
-> - Formal commands = Present subjunctive forms
-> - Tú commands: irregular in affirmative, subjunctive in negative
-> - Object pronouns: attached in affirmative, separate in negative
-> - Accents needed when pronouns are attached
-> - Indirect commands use "que + subjunctive"
+**5 Irregular Subjunctive Commands:**
+
+- dar → **dé/den** (give)
+- estar → **esté/estén** (be)
+- ir → **vaya/vayan** (go)
+- ser → **sea/sean** (be)
+- saber → **sepa/sepan** (know)
+
+### 💡 Key Memory Tips
+
+**Formation Pattern:**
+
+- **Formal commands = Present subjunctive** (always!)
+- **Tú affirmative = él/ella form** (8 exceptions)
+- **Tú negative = Present subjunctive + s**
+- **Vosotros = Infinitive -r + d** (affirmative only)
+
+**Pronoun Rules:**
+
+- **Affirmative**: Stick to the end + add accents
+- **Negative**: Keep separate before verb
+- **Double pronouns**: Indirect before direct (le/les → se)
+
+**Regional Usage:**
+
+- **Vosotros**: Spain only
+- **Uds.**: Everywhere (formal in Spain, both formal/informal in Latin America)
+
+**Quick Recognition Test:**
+
+- Does it sound like subjunctive? → Probably formal command
+- Does it sound like él/ella form? → Probably tú affirmative
+- Are pronouns stuck to the end? → Affirmative command
+- Are pronouns before the verb? → Negative command

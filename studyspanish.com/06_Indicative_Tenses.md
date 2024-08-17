@@ -5,7 +5,7 @@
 1. [**Concept Introduction**](#-what-are-tenses)
    - What Are Tenses?
    - What Is the Indicative Mood?
-   - Overview of Five Tenses
+   - Overview of Five Simple Tenses
 
 2. [**Present Progressive**](#present-progressive)
    - Formation Rules
@@ -53,13 +53,15 @@ The **indicative mood** (modo indicativo) is used to express **facts, reality, a
 - **Subjunctive**: Expresses doubt/emotion → *Espero que estudies.* (I hope you study.)
 - **Imperative**: Gives commands → *¡Estudia!* (Study!)
 
-**The Five Indicative Tenses Covered Here:**
+**The Five Simple Indicative Tenses Covered Here:**
 
 1. **Present Progressive** - Actions happening right now
 2. **Preterite** - Completed past actions  
 3. **Imperfect** - Ongoing/habitual past actions
 4. **Future** - Actions that will happen
 5. **Conditional** - Hypothetical/polite actions
+
+> 📚 **Note**: This document covers **simple indicative tenses**. For **perfect tenses** (present perfect, past perfect, future perfect), see the separate [Perfect Tenses](06_Perfect_Tenses.md) document.
 
 ## Present Progressive
 
@@ -704,7 +706,9 @@ Compound verbs inherit the same irregularities:
 
 ## 📚 Quick Reference Summary
 
-### 🎯 All Tense Formation Rules
+> 📖 **Complete Indicative System**: This document covers **simple indicative tenses**. For **perfect tenses** (present perfect, past perfect, future perfect), see [06_Perfect_Tenses.md](06_Perfect_Tenses.md).
+
+### 🎯 Simple Tense Formation Rules
 
 | Tense             | Formation            | Irregular Stems | Example        |
 | ----------------- | -------------------- | --------------- | -------------- |
@@ -740,3 +744,4 @@ Compound verbs inherit the same irregularities:
 - **Imperfect**: Only 3 irregular verbs (ser, ir, ver)
 - **Present Progressive**: Only for actions happening RIGHT NOW
 - **Preterite vs Imperfect**: Specific time vs General time
+- **Complete System**: Don't forget Perfect Tenses for actions connecting different time points!
